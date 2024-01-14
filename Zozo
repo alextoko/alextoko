@@ -87,4 +87,5 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",Dunia Lain (Indi)
+#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",bein
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
