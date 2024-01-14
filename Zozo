@@ -142,5 +142,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="INDONESIA",rtv(Indi)
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78-4e72-8052-7dec807e81c2)/manifest.mpd
 
 
