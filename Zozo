@@ -100,6 +100,32 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #EXTINF: 0 tvg-name="NET TV HD" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="GP_INDONESIA", NET Auto
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|referer=https://www.visionplus.id
 
+#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", DIGIONE Auto
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", DIGIONE Auto2
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
