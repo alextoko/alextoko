@@ -95,7 +95,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee!/manifest.mpd
 #EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",hore 234
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF: 0 tvg-name="NET TV HD" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="GP_INDONESIA", NET Auto
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|referer=https://www.visionplus.id
 
 
 
