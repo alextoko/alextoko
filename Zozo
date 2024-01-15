@@ -122,8 +122,8 @@ https://cdnjkt2.transvision.co.id:1003/live/master/1/4028c685651d7bcc01651f0b6d2
 #EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",antv
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
-
-
+#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",rundop
+https://be2719.rcr22.ams01.cdn112.com/hls2/02/05251/u2uacdtjj9i6_h/index-v1-a1.m3u8?t=kdwJSz1EJmjBDFjvnHgogXyjp0oVvnBnCh-VcZOp6Qs&s=1705337522&e=43200&f=26255223&srv=30&asn=45727&sp=2000
 
 
 
