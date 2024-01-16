@@ -138,8 +138,8 @@ https://gdplayertv.top/live-tv/indosiar/?embed=1&autoplay=1&mute=1
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-
-
+#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",the marvel cast
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/05334/z9d01ezxvd1n_x/index-v1-a1.m3u8?t=GVxrdhlkmYX0oaOJpSlPnAGMEd4Zjf0beB4hKcn0jTU&s=1705373459&e=43200&f=26671218&srv=27&asn=45727&sp=2500
 
 
 
