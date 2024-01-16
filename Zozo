@@ -142,7 +142,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 https://be2719.rcr22.ams01.cdn112.com/hls2/01/05334/z9d01ezxvd1n_x/index-v1-a1.m3u8?t=GVxrdhlkmYX0oaOJpSlPnAGMEd4Zjf0beB4hKcn0jTU&s=1705373459&e=43200&f=26671218&srv=27&asn=45727&sp=2500
 
 
-
+#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", DIGIONE metro
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b370a6c0-70c1-4736-b276-341a2d533848)/index.m3u8
 
 
 
