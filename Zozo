@@ -100,13 +100,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #EXTINF: 0 tvg-name="NET TV HD" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="GP_INDONESIA", NET Auto
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", DIGIONE Auto
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", DIGIONE Auto22
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/index.m3u8
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
@@ -122,37 +115,127 @@ https://cdnjkt2.transvision.co.id:1003/live/master/1/4028c685651d7bcc01651f0b6d2
 #EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",antv
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
-#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",rundop
-https://be2719.rcr22.ams01.cdn112.com/hls2/02/05251/u2uacdtjj9i6_h/index-v1-a1.m3u8?t=kdwJSz1EJmjBDFjvnHgogXyjp0oVvnBnCh-VcZOp6Qs&s=1705337522&e=43200&f=26255223&srv=30&asn=45727&sp=2000
-
-
-#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",rundop 2
-https://ss36.jumshare.com/stream/6/1C/EWOrSg2nTLZkiOTiIALnHH9XjoDBPfWMWNP/hls720/EWOrSg2nTLZkiOTiIALnHH9XjoDBPfWMWNP720.m3u8
-
-#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",indosiar
-https://gdplayertv.top/live-tv/indosiar/?embed=1&autoplay=1&mute=1
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="I", INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",the marvel cast
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/05334/z9d01ezxvd1n_x/index-v1-a1.m3u8?t=GVxrdhlkmYX0oaOJpSlPnAGMEd4Zjf0beB4hKcn0jTU&s=1705373459&e=43200&f=26671218&srv=27&asn=45727&sp=2500
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/130/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/136/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/137/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/138/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/139/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/140/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/141/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/142/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/143/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/144/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/145/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/146/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/147/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/148/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/149/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/150/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/151/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/152/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/153/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/154/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/155/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/156/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/157/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/158/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/159/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/160/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="Indosiar",rtv 
+https://cdn08jtedge.indihometv.com/dassdvr/161/indosiar/manifest.mpd
 
 
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", DIGIONE metro
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b370a6c0-70c1-4736-b276-341a2d533848)/index.m3u8
 
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", 0
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", 10
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd?10
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", 11
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd?11
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", 12
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd?12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
