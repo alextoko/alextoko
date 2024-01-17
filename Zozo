@@ -125,8 +125,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="I", INDOSIAR vi
-https://etslive-2-vidio-com.akamaized.net/exp=1705479053~acl=/hls-p/ingest_205_*/*~hmac=1c7e95ae06111356bb036c4a166ded7b2ecf2b6ab79dd565e8b7d67ea8dcd298/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="I", animal
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
 
 
 
