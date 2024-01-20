@@ -1,26 +1,38 @@
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", Indosiar
 https://playlist-coffee.my.id/oxy/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", SCTV
 https://playlist-coffee.my.id/oxy/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", antv
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", antv
 https://playlist-coffee.my.id/oxy/antv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", rtv
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", rtv
 https://playlist-coffee.my.id/oxy/rtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", mentari
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", mentari
 https://playlist-coffee.my.id/oxy/mentaritv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", moji
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", moji
 https://playlist-coffee.my.id/oxy/moji.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", tvone
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", tvone
 https://playlist-coffee.my.id/oxy/tvone.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", antV
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", kompastv
+https://playlist-coffee.my.id/oxy/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", metrotv
+https://playlist-coffee.my.id/oxy/metro.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", transtv
+https://playlist-coffee.my.id/oxy/transtv.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", trans 7
+https://playlist-coffee.my.id/oxy/trans7.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", antV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="INDONESIA",MOJI (Indi)
