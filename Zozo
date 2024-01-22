@@ -44,35 +44,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="INDONESIA",rtv indi
 https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="indo.id" group-title="ENTERTAINMENT" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",Dunia Lain (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
-#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO - MAX2
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-#EXTINF:0 tvg-id="HBO HD" tvg-logo="" group-title="HBO GROUP", Horee
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/Stream(03)/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-name="MY KIDZ" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="KIDS",MY KIDZ (D*)
-http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-
-#EXTINF:-1 tvg-name="MY KIDZ" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="KIDS",MY KIDZ (D*)
-http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="MOVIES",CINEMA WORLD (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
 
 #EXTINF:-1 tvg-name="MY KIDZ" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="KIDS",MY KIDZ ----
 https://dev-galaxy-lifetime.pantheonsite.io/mykidz
