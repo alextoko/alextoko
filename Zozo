@@ -1,37 +1,10 @@
-jj
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://telegra.ph/file/0144d624be5777633b5f2.png" group-title="NATIONAL",Net TV (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", Indosiar
-https://playlist-coffee.my.id/oxy/indosiar.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", SCTV
-https://playlist-coffee.my.id/oxy/sctv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", antv
-https://playlist-coffee.my.id/oxy/antv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", rtv
-https://playlist-coffee.my.id/oxy/rtv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", mentari
-https://playlist-coffee.my.id/oxy/mentaritv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", moji
-https://playlist-coffee.my.id/oxy/moji.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", tvone
-https://playlist-coffee.my.id/oxy/tvone.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", kompastv
-https://playlist-coffee.my.id/oxy/kompastv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", metrotv
-https://playlist-coffee.my.id/oxy/metro.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", transtv
-https://playlist-coffee.my.id/oxy/transtv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA", trans 7
-https://playlist-coffee.my.id/oxy/trans7.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://telegra.ph/file/0144d624be5777633b5f2.png" group-title="NATIONAL",Net TV (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-logo=" " group-title="INDONESIA", antV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
