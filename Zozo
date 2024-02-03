@@ -91,6 +91,91 @@ https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
 
 
+#################################### VOD Marvel #####################################################
+
+#EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2016/01/film-iron-man-2008.jpg" group-title="VOD Marvel",Iron Man (2008)
+https://www.googleapis.com/drive/v3/files/1QQKU4HIbCe1RGvGMuZgu-C_VNMWcyvtS?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2015/12/film-the-incredible-hulk-2008.jpg" group-title="VOD Marvel",The Incredible Hulk (2008)
+https://www.googleapis.com/drive/v3/files/18IY5GTDGJjVl0fIyV3naPUBbbpRSVGr4?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2016/01/film-iron-man-2-2010.jpg" group-title="VOD Marvel",Iron Man 2 (2010)
+https://www.googleapis.com/drive/v3/files/1ZMdbKWCkSj66XzvuXp3wOcdYodvtbkuN?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2016/04/film-thor-2011.jpg" group-title="VOD Marvel",Thor (2011)
+https://www.googleapis.com/drive/v3/files/1Wx27tqLux2lZF74ZljGmoiTSt3XZ5Shv?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2016/01/film-captain-america-the-first-avenger-2011.jpg" group-title="VOD Marvel",Captain America: The First Avenger (2011)
+https://www.googleapis.com/drive/v3/files/1KBC0P5mmqsvoWJJV2d1JT-W4d5iKhaGF?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2016/02/film-the-avengers-2012.jpg" group-title="VOD Marvel",The Avengers (2012)
+https://www.googleapis.com/drive/v3/files/1lkLQZuasPCzR7GioCHdtUi5ORQ1HXrPs?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg" group-title="VOD Marvel",Iron Man 3 (2013)
+https://www.googleapis.com/drive/v3/files/1DUywDx7JpD5SpBUEGLsBFG_egD9qTCUP?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s2.makimbo.xyz/wp-content/uploads/2016/05/film-thor-2-dark-world-2013.jpg" group-title="VOD Marvel",Thor: The Dark World (2013)
+https://www.googleapis.com/drive/v3/files/1WLwwJmsaZDoc5by0KWiom_G2gSkB0coE?alt=media&key=AIzaSyCiOxwKIXTnM1sfOlTYVVT-nysuJTxzMi8
+
+#EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2016/02/film-captain-america-the-winter-soldier-2014.jpg" group-title="VOD Marvel",Captain America: The Winter Soldier (2014)
+https://www.googleapis.com/drive/v3/files/1ZNgor0TIKEJRfGDEAR5ydexDi538MLt2?alt=media&key=AIzaSyAEb8xwhd5IwfXH9sqkTc4_WpY25n0d-tc
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2016/01/film-guardians-of-the-galaxy-2014.jpg" group-title="VOD Marvel",Guardians of the Galaxy (2014)
+https://www.googleapis.com/drive/v3/files/1klGozCmbeoR4HC4vT3VhhSEOx9-WQjz_?alt=media&key=AIzaSyAEb8xwhd5IwfXH9sqkTc4_WpY25n0d-tc
+
+#EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2015/12/film-avengers-age-of-ultron-2015.jpg" group-title="VOD Marvel",Avengers: Age of Ultron (2015)
+https://www.googleapis.com/drive/v3/files/1GzSPaSVw91KvwSgYs7Or4aKFx1FV8Z9I?alt=media&key=AIzaSyAEb8xwhd5IwfXH9sqkTc4_WpY25n0d-tc
+
+#EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2015/12/film-ant-man-2015.jpg" group-title="VOD Marvel",Ant-Man (2015)
+https://www.googleapis.com/drive/v3/files/1uF_LdsfBpJlu3OIarATn8Ik9vMOJ9gd0?alt=media&key=AIzaSyAEb8xwhd5IwfXH9sqkTc4_WpY25n0d-tc
+
+#EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2017/02/film-doctor-strange-2016.jpg" group-title="VOD Marvel",Doctor Strange (2016)
+https://www.googleapis.com/drive/v3/files/1BIk7bwfZvcYCiLcDG0FTYFWzJWCfIpUC?alt=media&key=AIzaSyCzzTTXVOBFWNMp4RmYrZ-u9zx4_uNbPSM
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2017/05/film-guardians-of-the-galaxy-vol-2-2017.jpg" group-title="VOD Marvel",Guardians of the Galaxy Vol. 2 (2017)
+https://www.googleapis.com/drive/v3/files/1IMZ067Fbk8AaEZpbdB1K8stRD4HtvZO4?alt=media&key=AIzaSyCP-zxONOGRRyvTl4pLVWrdyqLfot0xKng
+
+#EXTINF:-1 tvg-logo="https://s2.makimbo.xyz/wp-content/uploads/2017/07/film-spider-man-homecoming-2017.jpg" group-title="VOD Marvel",Spider-Man: Homecoming (2017)
+https://www.googleapis.com/drive/v3/files/1p2FeShifWV-lyVwxKV_JsE-TYtIVY3tY?alt=media&key=AIzaSyCP-zxONOGRRyvTl4pLVWrdyqLfot0xKng
+
+#EXTINF:-1 tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2017/11/film-thor-ragnarok-2017.jpg" group-title="VOD Marvel",Thor: Ragnarok (2017)
+https://www.googleapis.com/drive/v3/files/1HGtPPEhw3CAln7g5jF36YhkKBXHdI-3B?alt=media&key=AIzaSyCP-zxONOGRRyvTl4pLVWrdyqLfot0xKng
+        
+#EXTINF:-1 tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2018/02/film-black-panther-2018.jpg" group-title="VOD Marvel",Black Panther (2018)
+https://www.googleapis.com/drive/v3/files/1hZLHYOGUDtAyt6i3FbkZqBJekCNGqJ-6?alt=media&key=AIzaSyCP-zxONOGRRyvTl4pLVWrdyqLfot0xKng
+
+#EXTINF:-1 tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="VOD Marvel",Avengers: Infinity War (2018)
+https://www.googleapis.com/drive/v3/files/1pZvwTNw_vEG3EHTFhlQX5uF5x5VXgczm?alt=media&key=AIzaSyCmWFHI8LmOqhKBgdLJig7XHf2CuCXA8hU
+
+#EXTINF:-1 tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2018/07/film-ant-man-and-the-wasp-2018-lk21.jpg" group-title="VOD Marvel",Ant-Man and the Wasp (2018)
+https://www.googleapis.com/drive/v3/files/1MFR641OSP_Aye70NugrfqoQiJRvB5MLF?alt=media&key=AIzaSyCmWFHI8LmOqhKBgdLJig7XHf2CuCXA8hU
+
+#EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2019/03/film-captain-marvel-2019-lk21.jpg" group-title="VOD Marvel",Captain Marvel (2019)
+https://www.googleapis.com/drive/v3/files/1lELbfvNzXl3XjCKXvfk1AcVnQmA7vJet?alt=media&key=AIzaSyCmWFHI8LmOqhKBgdLJig7XHf2CuCXA8hU
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="VOD Marvel",Avengers: Endgame (2019)
+https://www.googleapis.com/drive/v3/files/1D6LA6D-mVKjZAojjHLDNS2alUV8imUlt?alt=media&key=AIzaSyCmWFHI8LmOqhKBgdLJig7XHf2CuCXA8hU
+
+#EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2019/07/film-spider-man-far-from-home-2019-lk21.jpg" group-title="VOD Marvel",Spider-Man: Far from Home (2019)
+https://www.googleapis.com/drive/v3/files/1_X-sbhPHbosYCMBUNHesDzavfz4jliQj?alt=media&key=AIzaSyCmWFHI8LmOqhKBgdLJig7XHf2CuCXA8hU
+
+#EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2021/11/film-shang-chi-and-the-legend-of-the-ten-rings-2021-d21.jpg" group-title="VOD Marvel",Shang-Chi and the Legend of the Ten Rings (2021)
+https://www.googleapis.com/drive/v3/files/1ijYfsUsE8vMb9Wq22abq7hRY-C-GpH__?alt=media&key=AIzaSyCzzTTXVOBFWNMp4RmYrZ-u9zx4_uNbPSM
+
+#EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2021/11/film-eternals-2021-lk21-d21.jpg" group-title="VOD Marvel",Eternals (2021)
+https://www.googleapis.com/drive/v3/files/1Kfxaak6GUOAL5_lWcYH7BndgZQM2-3FC?alt=media&key=AIzaSyCzzTTXVOBFWNMp4RmYrZ-u9zx4_uNbPSM
+
+#EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="VOD Marvel",Spider-Man: No Way Home (2021)
+https://www.googleapis.com/drive/v3/files/1mG148DVemcNgW9Vt0wh3jEfU8rd_3nRp?alt=media&key=AIzaSyCzzTTXVOBFWNMp4RmYrZ-u9zx4_uNbPSM
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2022/07/film-thor-love-and-thunder-2022-lk21-d21.jpg" group-title="VOD Marvel",Thor: Love and Thunder (2022)
+https://www.googleapis.com/drive/v3/files/1VHbxW1QR4k30O5VStXBE28p3Imf_N_Z1?alt=media&key=AIzaSyCzzTTXVOBFWNMp4RmYrZ-u9zx4_uNbPSM
+
+
+
+
+
+
 
 
 
