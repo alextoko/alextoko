@@ -49,14 +49,14 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/204_stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
-https://etslive-2-vidio-com.akamaized.net/drm/dash/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/733_stream.mpd
 
-#EXTINF:-1 group-title="SPORTS ID" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Premier League TV (Vidio)
+#EXTINF:-1 group-title="SPORTS ID" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", ttv
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
-https://etslive-2-vidio-com.akamaized.net/drm/dash/206_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/734_stream.mpd
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://telegra.ph/file/0144d624be5777633b5f2.png" group-title="NATIONAL",v
 https://zay1toiolchi.enaak-cdn.com/v/01/01171/evdc1ge916of_h/D21.FUN-Aquaman-1706228789.mp4?t=BiXMV7TVGgdpCUjJvoXLfDnH0rhzXnwCv10X3-CJOhE&s=1707542564&e=129600&f=5858391&sp=400&i=110.137
