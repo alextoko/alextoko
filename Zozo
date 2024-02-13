@@ -1,7 +1,8 @@
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS ID",Champions 
 https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS ID",Champions 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS ID",Champions 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdn3-reg2.mm.oxygen.id/hls/antv/index.m3u8
 
 
@@ -29,6 +30,9 @@ https://2xsj82e9bprx1.ctmp.online/?uid=N2YwYnhyYXh1ejIwb3V2azNmM2EyMzRnM2huam1wa
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",barbie turbo
 https://d63.litvp.com/data/8/74/42Ehmo3ZuhcYfCSZ4y7k0X2t9UZZMmDlKkd/42Ehmo3ZuhcYfCSZ4y7k0X2t9UZZMmDlKkd720.mp4?token=qSZ82VHr-MMj-IMTE8C6-g&expires=1707657006
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",barbie turbo new
+https://d63.litvp.com/data/8/74/42Ehmo3ZuhcYfCSZ4y7k0X2t9UZZMmDlKkd/42Ehmo3ZuhcYfCSZ4y7k0X2t9UZZMmDlKkd720.mp4?
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",barbie 
 https://be2719.rcr22.ams01.cdn112.com/download/01/05132/lwiwsb48ay7e_o/D21%20FUN%20The%20Childe%202023%201702339956%20mp4?t=0t2VZBRSoYT0bUlMcsseBSxHz73xN3cX_u0LTVmBy-Q&s=1707654496&e=43200&f=25660563&srv=52&asn=7713&sp=500
