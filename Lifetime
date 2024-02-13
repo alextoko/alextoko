@@ -177,7 +177,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/tvone-fhd
 #EXTINF: -1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvri.jpg" group-title="GP_INDONESIA", TVRI NASIONAL Auto
 https://dev-galaxy-lifetime.pantheonsite.io/tvri
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/ntv.jpg" group-title="GP_INDONESIA", Nusantara TV 1080P
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/ntv.jpg" group-title="GP_INDONESIA", Nusantara TV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/nusantaratv-fhd
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indonesiana.jpg" group-title="GP_INDONESIA",Indonesiana TV FHD
@@ -217,8 +217,8 @@ https://dev-galaxy-lifetime.pantheonsite.io/tvriworld
 #EXTINF: -1 tvg-id="UseePrime.id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/useeprime.jpg" group-title="GP_INDONESIA", USEE PRIME Auto
 https://dev-galaxy-lifetime.pantheonsite.io/useeprime
 
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/digione.jpg" group-title="GP_INDONESIA", DIGIONE Auto
-https://dev-galaxy-lifetime.pantheonsite.io/digione
+#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/digione.jpg" group-title="GP_INDONESIA", MAXSTREAM Auto
+https://dev-galaxy-lifetime.pantheonsite.io/maxstream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
@@ -607,7 +607,7 @@ https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
 https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="GP_CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", PREMIER LEAGUE Auto
+#EXTINF:-1 group-title="GP_CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/oA7FNQrjU1piI0FPz2z0bye5XjQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Premier League Auto
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
