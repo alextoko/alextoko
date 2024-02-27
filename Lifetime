@@ -1,16 +1,27 @@
 #EXTM3U url-tvg=https://dev-galaxy-lifetime.pantheonsite.io/epg.xml
 
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="GP_INDONESIA", WA ADMIN 
-https://dev-galaxy-lifetime.pantheonsite.io/
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd
 
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV SD
-https://dev-galaxy-lifetime.pantheonsite.io/antv
+#https://dev-galaxy-lifetime.pantheonsite.io/antv
 
 #EXTINF: -1 tvg-name="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV HD
 https://dev-galaxy-lifetime.pantheonsite.io/antv-fhd
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR Auto
+https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd
+
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR SD
-https://dev-galaxy-lifetime.pantheonsite.io/indosiar
+#https://dev-galaxy-lifetime.pantheonsite.io/indosiar
 
 #EXTINF: -1 tvg-name="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR HD
 https://dev-galaxy-lifetime.pantheonsite.io/indosiar-fhd
@@ -64,7 +75,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
 https://dev-galaxy-lifetime.pantheonsite.io/rtv-fhd
 
 #EXTINF: -1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="GP_INDONESIA", VTV HD
-#https://dev-galaxy-lifetime.pantheonsite.io/vtv
+https://dev-galaxy-lifetime.pantheonsite.io/vtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -102,8 +113,15 @@ https://dev-galaxy-lifetime.pantheonsite.io/rcti-fhd
 #EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rcti.jpg" group-title="GP_INDONESIA", RCTI FHD
 https://dev-galaxy-lifetime.pantheonsite.io/rcti27
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd
+
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV SD
-https://dev-galaxy-lifetime.pantheonsite.io/sctv
+#https://dev-galaxy-lifetime.pantheonsite.io/sctv
 
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV HD
 https://dev-galaxy-lifetime.pantheonsite.io/sctv-fhd
@@ -183,10 +201,10 @@ https://dev-galaxy-lifetime.pantheonsite.io/nusantaratv-fhd
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indonesiana.jpg" group-title="GP_INDONESIA",Indonesiana TV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/indonesianantv-fhd
 
-#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/m3ky" group-title="GP_INDONESIA", CNBC Auto
+#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="GP_INDONESIA", CNBC Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cnbc
 
-#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/m3ky" group-title="GP_INDONESIA", CNBC HD
+#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="GP_INDONESIA", CNBC HD
 https://dev-galaxy-lifetime.pantheonsite.io/cnbc27
 
 #EXTINF: -1 tvg-id="DAAI TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/daai.jpg" group-title="GP_INDONESIA", DAAI TV Auto
@@ -234,9 +252,6 @@ https://dev-galaxy-lifetime.pantheonsite.io/magnatv
 #EXTINF: -1 tvg-name="Citra Drama" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cdrama.jpg" group-title="GP_INDONESIA", CITRA DRAMA Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cdrama.mpd
 
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="GP_SPORTS ID", WA ADMIN 
-https://dev-galaxy-lifetime.pantheonsite.io/
-
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="EURO SPORTS 1" tvg-logo="https://i.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="GP_SPORTS ID", EURO SPORTS 1 FHD
 https://dev-galaxy-lifetime.pantheonsite.io/eurosports1
@@ -278,9 +293,6 @@ https://dev-galaxy-lifetime.pantheonsite.io/mutv
 #EXTINF: -1 tvg-id="RealMadridTV.es" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="GP_SPORTS ID", REAL MADRID TV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/realmadridtv
 
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="GP_ANAK-ANAK", WA ADMIN 
-https://dev-galaxy-lifetime.pantheonsite.io/
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -289,6 +301,18 @@ https://dev-galaxy-lifetime.pantheonsite.io/animax.mpd
 
 #EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="GP_ANAK-ANAK",ANIPLUS FHD
 https://dev-galaxy-lifetime.pantheonsite.io/aniplus-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://d2lv662meabn0u.cloudfront.net/cartoonito/dynamic/editorial/00000000/195/0b7a3f43-d94c-4a36-9a35-0a3d94d311fa_1676051890.jpg" group-title="GP_ANAK-ANAK",CARTOONITO Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cnito.mpd|http-referrer=https://www.cubmu.com/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="GP_ANAK-ANAK",CARTOON NETWORK Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cn.mpd|http-referrer=https://www.cubmu.com/
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="GP_ANAK-ANAK",CARTOON NETWORK FHD
 https://dev-galaxy-lifetime.pantheonsite.io/cartoonnet-fhd
@@ -319,9 +343,6 @@ https://dev-galaxy-lifetime.pantheonsite.io/nickelodeon.mpd
 
 #EXTINF: -1 tvg-name="Nickelodeon - [Channel 49].id" tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2023/05/nick-splat-652x342.jpeg" group-title="GP_ANAK-ANAK", NICKELODEON FHD
 https://dev-galaxy-lifetime.pantheonsite.io/nickelodeon-fhd
-
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="GP_MOVIES", WA ADMIN 
-https://dev-galaxy-lifetime.pantheonsite.io/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -370,9 +391,6 @@ https://dev-galaxy-lifetime.pantheonsite.io/mca-fhd
 
 #EXTINF:0 tvg-name="My Family - [Channel 15].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FabaD9cU9s-LyWFgbt5hYRjz6stDtDyrPqU0hM4DZhrOq-eJ0SFzj3KCHG9-wR7-W7k&usqp=CAU" group-title="GP_MOVIES",MY FAMILY CHANNEL FHD 
 https://dev-galaxy-lifetime.pantheonsite.io/mfc-fhd
-
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="GP_KOREA", WA ADMIN 
-https://dev-galaxy-lifetime.pantheonsite.io/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -428,14 +446,11 @@ https://dev-galaxy-lifetime.pantheonsite.io/tvnprem.mpd
 #EXTINF: -1 tvg-name="Warner" tvg-logo="https://i.ytimg.com/vi/ZNLXGxoqMyg/maxresdefault.jpg" group-title="GP_MOVIES", WARNER TV HD
 https://dev-galaxy-lifetime.pantheonsite.io/warnertv-fhd
 
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="GP_MOVIES HBO", WA ADMIN 
-https://dev-galaxy-lifetime.pantheonsite.io/
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="GP_MOVIES HBO", HBO Auto
-https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd
+https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://www.cubmu.com/
 
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="GP_MOVIES HBO", HBO HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbo-fhd
@@ -445,9 +460,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbo27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="GP_MOVIES HBO", HBO HITS Auto
-https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd
+https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://www.cubmu.com/
 
 #EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="GP_MOVIES HBO", HBO HITS HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbohits-fhd
@@ -457,9 +472,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbohits27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="GP_MOVIES HBO", HBO FAMILY Auto
-https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd
+https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://www.cubmu.com/
 
 #EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="GP_MOVIES HBO", HBO FAMILY HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbofamily-fhd
@@ -469,9 +484,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbofamily27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="GP_MOVIES HBO", HBO SIGNATURE Auto
-https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd
+https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://www.cubmu.com/
 
 #EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="GP_MOVIES HBO", HBO SIGNATURE HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbosignature-fhd
@@ -481,18 +496,15 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbosign27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="GP_MOVIES HBO",CINEMAX Auto
-https://dev-galaxy-lifetime.pantheonsite.io/cinemax.mpd
+https://dev-galaxy-lifetime.pantheonsite.io/cinemax.mpd|http-referrer=https://www.cubmu.com/
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="GP_MOVIES HBO",CINEMAX HD
 https://dev-galaxy-lifetime.pantheonsite.io/cinemax-fhd
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="GP_MOVIES HBO",CINEMAX FHD
 https://dev-galaxy-lifetime.pantheonsite.io/cinemax27
-
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="GP_PENGETAHUAN", WA ADMIN 
-https://dev-galaxy-lifetime.pantheonsite.io/
 
 #EXTINF:-1 tvg-name="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/animalplanet.jpg" group-title="GP_PENGETAHUAN",ANIMAL PLANET Auto
 https://dev-galaxy-lifetime.pantheonsite.io/animalplanet
@@ -653,5 +665,8 @@ https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|Referer=ht
 #EXTINF: -1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg" group-title="GP_TRUE SPORTS", True Sports 3
 https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="=====VOD=====", WA ADMIN 
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="=====VOD=====", +10K Untuk Nonton VOD
+https://dev-galaxy-lifetime.pantheonsite.io/
+
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="=====VOD=====", Bisa Request VOD
 https://dev-galaxy-lifetime.pantheonsite.io/
