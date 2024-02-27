@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dev-galaxy-lifetime.pantheonsite.io/workers.dev/
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",boggg
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",boggghhh
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd|http-referrer=https://www.cubmu.com/
  
 
