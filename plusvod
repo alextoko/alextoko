@@ -201,10 +201,10 @@ https://dev-galaxy-lifetime.pantheonsite.io/nusantaratv-fhd
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indonesiana.jpg" group-title="GP_INDONESIA",Indonesiana TV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/indonesianantv-fhd
 
-#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/m3ky" group-title="GP_INDONESIA", CNBC Auto
+#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="GP_INDONESIA", CNBC Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cnbc
 
-#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/m3ky" group-title="GP_INDONESIA", CNBC HD
+#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="GP_INDONESIA", CNBC HD
 https://dev-galaxy-lifetime.pantheonsite.io/cnbc27
 
 #EXTINF: -1 tvg-id="DAAI TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/daai.jpg" group-title="GP_INDONESIA", DAAI TV Auto
