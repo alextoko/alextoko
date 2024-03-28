@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTM3U url-tvg=https://dev-galaxy-lifetime.pantheonsite.io/epg.xml
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
