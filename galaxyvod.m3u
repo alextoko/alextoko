@@ -6,7 +6,7 @@
 https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV SD
-#https://dev-galaxy-lifetime.pantheonsite.io/antv
+https://dev-galaxy-lifetime.pantheonsite.io/antv
 
 #EXTINF: -1 tvg-name="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV HD
 #https://dev-galaxy-lifetime.pantheonsite.io/antv-fhd
