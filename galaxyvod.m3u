@@ -1,0 +1,796 @@
+#EXTM3U url-tvg=https://dev-galaxy-lifetime.pantheonsite.io/epg.xml
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV SD
+#https://dev-galaxy-lifetime.pantheonsite.io/antv
+
+#EXTINF: -1 tvg-name="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/antv-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR Auto
+https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR SD
+#https://dev-galaxy-lifetime.pantheonsite.io/indosiar
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF: -1 tvg-name="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR HD
+https://dev-galaxy-lifetime.pantheonsite.io/indosiar-fhd
+
+#EXTINF: -1 tvg-name="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/indosiar27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/gtv.jpg" group-title="GP_INDONESIA", GTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/gtv.mpd
+
+#EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/gtv.jpg" group-title="GP_INDONESIA", GTV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/gtv-fhd
+
+#EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/gtv.jpg" group-title="GP_INDONESIA", GTV FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/gtv27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mentari.jpg" group-title="GP_INDONESIA", MENTARI TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/mentaritv.mpd
+
+#EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mentari.jpg" group-title="GP_INDONESIA", MENTARI TV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/mentaritv-fhd
+
+#EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mentari.jpg" group-title="GP_INDONESIA", MENTARI TV FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/mentari27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mnctv.jpg" group-title="GP_INDONESIA", MNCTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/mnctv.mpd
+
+#EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mnctv.jpg" group-title="GP_INDONESIA", MNCTV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/mnctv-fhd
+
+#EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mnctv.jpg" group-title="GP_INDONESIA", MNCTV FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/mnctv27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="RTV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rtv.jpg" group-title="GP_INDONESIA", RTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
+
+#EXTINF: -1 tvg-name="RTV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rtv.jpg" group-title="GP_INDONESIA", RTV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/rtv-fhd
+
+#EXTINF: -1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="GP_INDONESIA", VTV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/vtv
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="GP_INDONESIA", MOJI Auto
+https://dev-galaxy-lifetime.pantheonsite.io/moji.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="GP_INDONESIA", MOJI HD
+https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
+
+#EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="GP_INDONESIA", MOJI FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/moji27
+
+#EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="GP_INDONESIA", NET TV SD
+#https://dev-galaxy-lifetime.pantheonsite.io/net
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="GP_INDONESIA", NET TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/nettv.mpd
+
+#EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="GP_INDONESIA", NET TV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/nettv-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rcti.jpg" group-title="GP_INDONESIA", RCTI Auto
+https://dev-galaxy-lifetime.pantheonsite.io/rcti.mpd
+
+#EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rcti.jpg" group-title="GP_INDONESIA", RCTI HD
+#https://dev-galaxy-lifetime.pantheonsite.io/rcti-fhd
+
+#EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rcti.jpg" group-title="GP_INDONESIA", RCTI FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/rcti27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV SD
+#https://dev-galaxy-lifetime.pantheonsite.io/sctv
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV HD
+https://dev-galaxy-lifetime.pantheonsite.io/sctv-fhd
+
+#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/sctv27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="GP_INDONESIA", TRANS 7 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+#https://dev-galaxy-lifetime.pantheonsite.io/trans7
+
+#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="GP_INDONESIA", TRANS 7 HD
+#https://dev-galaxy-lifetime.pantheonsite.io/trans7-fhd
+
+#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="GP_INDONESIA", TRANS 7 FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/trtrans727
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="GP_INDONESIA", TRANS TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+#https://dev-galaxy-lifetime.pantheonsite.io/transtv
+
+#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="GP_INDONESIA", TRANS TV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/transtv-fhd
+
+#EXTINF: -1 tvg-id="CNN Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnn.jpg" group-title="GP_INDONESIA", CNN Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cnn
+
+#EXTINF: -1 tvg-id="CNN Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnn.jpg" group-title="GP_INDONESIA", CNN HD
+#https://dev-galaxy-lifetime.pantheonsite.io/cnn27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/inews.jpg" group-title="GP_INDONESIA", INEWS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/inews.mpd
+
+#EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/inews.jpg" group-title="GP_INDONESIA", INEWS HD
+#https://dev-galaxy-lifetime.pantheonsite.io/inews-fhd
+
+#EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/inews.jpg" group-title="GP_INDONESIA", INEWS FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/inews27
+
+#EXTINF: -1 tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/kompas.jpg" group-title="GP_INDONESIA", KOMPAS TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/kompastv.mpd
+
+#EXTINF: -1 tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/kompas.jpg" group-title="GP_INDONESIA", KOMPAS TV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/kompastv-fhd
+
+#EXTINF: -1 tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/kompas.jpg" group-title="GP_INDONESIA", KOMPAS TV FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/kompas27
+
+#EXTINF: -1 tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/metroglobe.jpg" group-title="GP_INDONESIA", METRO GLOBE Auto
+https://dev-galaxy-lifetime.pantheonsite.io/metroglobe
+
+#EXTINF: -1 tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/metrotv.jpg" group-title="GP_INDONESIA", METRO TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/metrotv
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Sindo News TV - [Channel 84].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sindo.jpg" group-title="GP_INDONESIA", SINDONEWS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sindonews.mpd
+
+#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE Auto
+https://dev-galaxy-lifetime.pantheonsite.io/tvone
+
+#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE HD
+#https://dev-galaxy-lifetime.pantheonsite.io/tvone27
+
+#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/tvone-fhd
+
+#EXTINF: -1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvri.jpg" group-title="GP_INDONESIA", TVRI NASIONAL Auto
+https://dev-galaxy-lifetime.pantheonsite.io/tvri
+
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/ntv.jpg" group-title="GP_INDONESIA", Nusantara TV FHD
+https://dev-galaxy-lifetime.pantheonsite.io/nusantaratv-fhd
+
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indonesiana.jpg" group-title="GP_INDONESIA",Indonesiana TV FHD
+https://dev-galaxy-lifetime.pantheonsite.io/indonesianantv-fhd
+
+#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="GP_INDONESIA", CNBC Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cnbc
+
+#EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="GP_INDONESIA", CNBC HD
+#https://dev-galaxy-lifetime.pantheonsite.io/cnbc27
+
+#EXTINF: -1 tvg-id="DAAI TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/daai.jpg" group-title="GP_INDONESIA", DAAI TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/daaitv
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-name="FLIK" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/flik.jpg" group-title="GP_INDONESIA",FLIK Auto
+https://dev-galaxy-lifetime.pantheonsite.io/flik.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="IMC - [Channel 14].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/imc.jpg" group-title="GP_INDONESIA", IMC Auto
+https://dev-galaxy-lifetime.pantheonsite.io/imc.mpd
+
+#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/digione.jpg" group-title="GP_INDONESIA", MAXSTREAM Auto
+https://dev-galaxy-lifetime.pantheonsite.io/maxstream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/visionprime.jpg" group-title="GP_INDONESIA", VISION PRIME Auto
+https://dev-galaxy-lifetime.pantheonsite.io/visionprime.mpd
+
+#EXTINF: -1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvriworld.jpg" group-title="GP_INDONESIA", TVRI WORLD Auto
+https://dev-galaxy-lifetime.pantheonsite.io/tvriworld
+
+#EXTINF: -1 tvg-id="UseePrime.id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/useeprime.jpg" group-title="GP_INDONESIA", USEE PRIME Auto
+https://dev-galaxy-lifetime.pantheonsite.io/useeprime
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF: -1 tvg-id="indo.id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/dunialain.jpg" group-title="GP_INDONESIA", DUNIA LAIN Auto
+https://dev-galaxy-lifetime.pantheonsite.io/dunialain.mpd
+
+#EXTINF: -1 tvg-id="Garuda.id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/garuda.jpg" group-title="GP_INDONESIA", GARUDA TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/garudatv
+
+#EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/magna.jpg" group-title="GP_INDONESIA", MAGNA Auto
+https://dev-galaxy-lifetime.pantheonsite.io/magnatv
+
+#EXTINF: -1 tvg-name="Citra Drama" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cdrama.jpg" group-title="GP_INDONESIA", CITRA DRAMA Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cdrama.mpd
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF: -1 tvg-name="EURO SPORTS 1" tvg-logo="https://i.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="GP_SPORTS ID", EURO SPORTS 1 FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/eurosports1
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF: -1 tvg-name="EURO SPORTS 2" tvg-logo="https://i.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="GP_SPORTS ID", EURO SPORTS 2 FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/eurosports2
+
+#EXTINF: -1 tvg-id="RedBullTV.at" tvg-logo="https://i.pinimg.com/736x/a3/11/69/a31169eb5a44bc912f5318d09b017f5c--logo-free-logo-s.jpg" group-title="GP_SPORTS ID", RED BULL TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/redbulltv
+#EXTINF: -1 tvg-name="Sky Sport MotoGP" tvg-logo="https://www.digital-news.it/files-admin/Simone/2020/08/1597166536-skysportmotogp.jpg" group-title="GP_SPORTS ID", SKY SPORT MOTOGP FHD
+https://dev-galaxy-lifetime.pantheonsite.io/skysportmotogp
+#EXTINF: -1 tvg-name="Sky Sports F1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/2e/Sky_Sports_FGP_ID_2012.png" group-title="GP_SPORTS ID", SKY SPORT F1 FHD
+https://dev-galaxy-lifetime.pantheonsite.io/skysportf1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ytimg.com/vi/N4yiDnhtltA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSD8576eYH0hL1hBfATckWuLtfsQ" group-title="GP_SPORTS ID", SOCCER CHANNEL Auto
+https://dev-galaxy-lifetime.pantheonsite.io/soccer.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://cdn.spotvnow.com/upload/image/20221208/121cc03de502c80ae048cfaafe22e652.png" group-title="GP_SPORTS ID", SPOTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/spotv.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://cdn.spotvnow.com/upload/image/20221208/121cc03de502c80ae048cfaafe22e652.png" group-title="GP_SPORTS ID", SPOTV 2 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/spotv2.mpd
+#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://thumbor.prod.vidiocdn.com/7gqxD5wR6fmQAp7Br1tgsmc3LSI=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="GP_SPORTS ID", TVRI SPORT Auto
+https://dev-galaxy-lifetime.pantheonsite.io/tvrisport
+#EXTINF: -1 tvg-id="galatasaraytv.tr" tvg-logo="https://www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg" group-title="GP_SPORTS ID", GALATASARAY TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/galatasaraytv
+#EXTINF: -1 tvg-id="mutv.uk" tvg-logo="https://cdn.browsercam.com/headers/com.manutd.mutv-header.png" group-title="GP_SPORTS ID", MUTV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/mutv
+#EXTINF: -1 tvg-id="RealMadridTV.es" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="GP_SPORTS ID", REAL MADRID TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/realmadridtv
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="Animax - [Channel 157].id" tvg-logo="https://anime.atsit.in/id/wp-content/uploads/2023/02/jio-tv-reliance-menambahkan-teks-bahasa-inggris-ke-animax-asia.jpg" group-title="GP_ANAK-ANAK", ANIMAX Auto
+https://dev-galaxy-lifetime.pantheonsite.io/animax.mpd
+
+#EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="GP_ANAK-ANAK",ANIPLUS FHD
+https://dev-galaxy-lifetime.pantheonsite.io/aniplus-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://d2lv662meabn0u.cloudfront.net/cartoonito/dynamic/editorial/00000000/195/0b7a3f43-d94c-4a36-9a35-0a3d94d311fa_1676051890.jpg" group-title="GP_ANAK-ANAK",CARTOONITO Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cnito.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="GP_ANAK-ANAK",CARTOON NETWORK Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cn.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="GP_ANAK-ANAK",CARTOON NETWORK FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/cartoonnet-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Dreamworks - [Channel 47].id" tvg-logo="https://www.dictio.id/uploads/db3342/original/3X/5/9/5937d1d138de1b4dd8fb1cc02765d85c7f8d87da.jpg" group-title="GP_ANAK-ANAK", DREAMWORKS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/dreamwork.mpd
+#EXTINF: -1 tvg-id="IndiKids.id" tvg-logo="https://bumntrack.co.id/wp-content/uploads/2021/07/20210723_165941-1024x569.jpg" group-title="GP_ANAK-ANAK", FUN PLANET Auto
+https://dev-galaxy-lifetime.pantheonsite.io/funplanet
+#EXTINF: -1 tvg-logo="https://hometv.pw/logo/kids/horee.png" group-title="GP_ANAK-ANAK", HOREE SD
+https://dev-galaxy-lifetime.pantheonsite.io/horee
+#EXTINF: -1 tvg-name="My Kidz - [Channel 50].id" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="GP_ANAK-ANAK", MY KIDZ FHD
+https://dev-galaxy-lifetime.pantheonsite.io/mykidz-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Nick Jr. HD - [Channel 472].id" tvg-logo="https://1.bp.blogspot.com/--ZtY9O9F_zM/WHFVk6NjfXI/AAAAAAAArxY/zarE1OaKUowxDlnHZxUqICQ2pHQNNXaNgCLcB/s1600/nick-jr-spring-logo-nickelodeon-preschool-junior-jnr-bunny-rabbit-flowers-nature.jpg" group-title="GP_ANAK-ANAK", NICK JR Auto
+https://dev-galaxy-lifetime.pantheonsite.io/nickjr.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Nickelodeon - [Channel 49].id" tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2023/05/nick-splat-652x342.jpeg" group-title="GP_ANAK-ANAK", NICKELODEON Auto
+https://dev-galaxy-lifetime.pantheonsite.io/nickelodeon.mpd
+
+#EXTINF: -1 tvg-name="Nickelodeon - [Channel 49].id" tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2023/05/nick-splat-652x342.jpeg" group-title="GP_ANAK-ANAK", NICKELODEON FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/nickelodeon-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="AXN HD - [Channel 438].id" tvg-logo="https://s1.dmcdn.net/v/OgX3U1RhObGDn0yfb/x1080" group-title="GP_MOVIES", AXN Auto
+https://dev-galaxy-lifetime.pantheonsite.io/axn.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="GP_MOVIES",CINEMA WORLD
+https://dev-galaxy-lifetime.pantheonsite.io/cinemaworld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Galaxy - [Channel 13].id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/dfpvasn-7b4343d9-ad9d-48f5-b50e-2a680e3f9ad7.png/v1/fill/w_1280,h_720,q_80,strp/galaxy_channel___ident__2021___3__by_unitedworldmedia_dfpvasn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIxY2VlZTUtOTQ1OC00NDM0LTgwYmMtZmM1ZDgzYTJlYTg4XC9kZnB2YXNuLTdiNDM0M2Q5LWFkOWQtNDhmNS1iNTBlLTJhNjgwZTNmOWFkNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.78y9sPBIQs_KplgTGjraNoJLyZryFJxGPXrbkES0Fsw" group-title="GP_MOVIES", GALAXY  Auto
+https://dev-galaxy-lifetime.pantheonsite.io/galaxy.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Galaxy Premium - [Channel 12].id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/dfpvasn-7b4343d9-ad9d-48f5-b50e-2a680e3f9ad7.png/v1/fill/w_1280,h_720,q_80,strp/galaxy_channel___ident__2021___3__by_unitedworldmedia_dfpvasn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIxY2VlZTUtOTQ1OC00NDM0LTgwYmMtZmM1ZDgzYTJlYTg4XC9kZnB2YXNuLTdiNDM0M2Q5LWFkOWQtNDhmNS1iNTBlLTJhNjgwZTNmOWFkNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.78y9sPBIQs_KplgTGjraNoJLyZryFJxGPXrbkES0Fsw" group-title="GP_MOVIES", GALAXY PREMIUM Auto
+https://dev-galaxy-lifetime.pantheonsite.io/galaxyprem.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="HITS - [Channel 160].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="GP_MOVIES", HITS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" group-title="GP_MOVIES", HITS NOW Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hitsnow.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="HITS MOVIES HD - [Channel 409].id" tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies.jpg" group-title="GP_MOVIES", HITS MOVIES Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hitsmovies.mpd
+
+#EXTINF:0 tvg-name="My Cinema Asia - [Channel 17].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBr30tw1cp3bMEvdDZZoCzNBXDaH_zjC8MnREHudx3p7U4kOHXGPYw6kmdD9Yl1pt4N2A&usqp=CAU" group-title="GP_MOVIES",MY CINEMA ASIA FHD 
+https://dev-galaxy-lifetime.pantheonsite.io/mca-fhd
+
+#EXTINF:0 tvg-name="My Family - [Channel 15].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FabaD9cU9s-LyWFgbt5hYRjz6stDtDyrPqU0hM4DZhrOq-eJ0SFzj3KCHG9-wR7-W7k&usqp=CAU" group-title="GP_MOVIES",MY FAMILY CHANNEL FHD 
+https://dev-galaxy-lifetime.pantheonsite.io/mfc-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Paramount Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Paramount_logo.jpg" group-title="GP_MOVIES", PARAMOUNT Auto
+https://dev-galaxy-lifetime.pantheonsite.io/paramount.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Rock Action - [Channel 248].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MahLlmBHdFNiZCaFZRWWetm5z0k=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-55bdd5.jpg" group-title="GP_MOVIES", ROCK ACTION Auto
+https://dev-galaxy-lifetime.pantheonsite.io/rockaction.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Rock Entertainment - [Channel 240].id" tvg-logo="https://thumbor.prod.vidiocdn.com/1MwnZ8Dev1kqcp4kU2ityODn9gg=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8120/rock-entertainment-756300.jpg" group-title="GP_MOVIES", ROCK ENTERTAINMENT Auto
+https://dev-galaxy-lifetime.pantheonsite.io/rockent.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Warner" tvg-logo="https://i.ytimg.com/vi/ZNLXGxoqMyg/maxresdefault.jpg" group-title="GP_MOVIES", WARNER TV HD
+#https://dev-galaxy-lifetime.pantheonsite.io/warnertv-fhd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="GP_MOVIES HBO", HBO Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="GP_MOVIES HBO", HBO Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="GP_MOVIES HBO", HBO HD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbo-fhd
+
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="GP_MOVIES HBO", HBO FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbo27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="GP_MOVIES HBO", HBO HITS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="GP_MOVIES HBO", HBO HITS HD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbohits-fhd
+
+#EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="GP_MOVIES HBO", HBO HITS FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbohits27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="GP_MOVIES HBO", HBO FAMILY Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="GP_MOVIES HBO", HBO FAMILY HD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbofamily-fhd
+
+#EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="GP_MOVIES HBO", HBO FAMILY FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbofamily27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="GP_MOVIES HBO", HBO SIGNATURE Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="GP_MOVIES HBO", HBO SIGNATURE HD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbosignature-fhd
+
+#EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="GP_MOVIES HBO", HBO SIGNATURE FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/hbosign27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="GP_MOVIES HBO",CINEMAX Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cinemax.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="GP_MOVIES HBO",CINEMAX HD
+#https://dev-galaxy-lifetime.pantheonsite.io/cinemax-fhd
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="GP_MOVIES HBO",CINEMAX FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/cinemax27
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="Kplus" tvg-name="Kplus" tvg-logo="https://i0.wp.com/artofchannelbranding.com/wp-content/uploads/2015/11/k-plus-001.png?fit=1280%2C720&ssl=1" group-title="GP_KOREA", K+ Auto
+https://dev-galaxy-lifetime.pantheonsite.io/kplus
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="ONE HD" tvg-logo="https://i.ytimg.com/vi/SXrYYD06XNU/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGE0gLCh_MA8=&rs=AOn4CLDY1x4ueFG3ktkgj4_Alm69fh3Bhg" group-title="GP_KOREA", ONE Auto
+https://dev-galaxy-lifetime.pantheonsite.io/one.mpd
+
+#EXTINF:-1 tvg-name="SONY GEM" tvg-logo="https://hometv.pw/logo/entertainment/gem.png" group-title="GP_KOREA",SONY GEM SD
+#https://dev-galaxy-lifetime.pantheonsite.io/sonygem
+
+#EXTINF:-1 tvg-name="SONY GEM" tvg-logo="https://hometv.pw/logo/entertainment/gem.png" group-title="GP_KOREA",SONY GEM Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sonygem.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="GP_KOREA", TVN MOVIES Auto
+https://dev-galaxy-lifetime.pantheonsite.io/tvnmovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="tvN HD - [Channel 446].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="GP_KOREA", TVN PREMIUM Auto
+https://dev-galaxy-lifetime.pantheonsite.io/tvnprem.mpd
+
+#EXTINF:-1 tvg-name="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/animalplanet.jpg" group-title="GP_PENGETAHUAN",ANIMAL PLANET Auto
+https://dev-galaxy-lifetime.pantheonsite.io/animalplanet
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="BBC Earth HD - [Channel 461].id" tvg-logo="https://www.creativeboom.com/uploads/articles/8c/8c76bc7cf6bbc9b09a8a605fd79f725180d0d9e4_810.png" group-title="GP_PENGETAHUAN", BBC EARTH Auto
+https://dev-galaxy-lifetime.pantheonsite.io/bbcearth.mpd
+
+#EXTINF: -1 tvg-id="BiznetAdventure.id" tvg-logo="https://www.biznetnetworks.com/assets/logo-1576123657.jpg" group-title="GP_PENGETAHUAN", BISNET ADVENTURE HD
+https://dev-galaxy-lifetime.pantheonsite.io/biznetadv
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Nat Geo Wild HD - [Channel 463].id" tvg-logo="https://i.ytimg.com/vi/LtCdqpyoRjw/maxresdefault.jpg" group-title="GP_PENGETAHUAN", LOVE NATURE Auto
+https://dev-galaxy-lifetime.pantheonsite.io/lovenature.mpd
+
+#EXTINF: -1 tvg-name="Nat Geo Wild HD - [Channel 463].id" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg" group-title="GP_PENGETAHUAN", LOVE NATURE 4K
+https://dev-galaxy-lifetime.pantheonsite.io/lovenature4k
+
+#EXTINF: -1 tvg-id="NASATVPublic.us" tvg-logo="https://i.ytimg.com/vi/RrlDv-ts2f0/mqdefault.jpg" group-title="GP_PENGETAHUAN", NASA TV Auto
+https://dev-galaxy-lifetime.pantheonsite.io/nasatv
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="GP_PENGETAHUAN", OUTDOOR Auto
+https://dev-galaxy-lifetime.pantheonsite.io/outdoor.mpd
+
+#EXTINF: -1 tvg-logo="https://deadline.com/wp-content/uploads/2020/08/paa_dc_16x91.jpg" group-title="GP_PENGETAHUAN", PEOPLE ARE AWESOME Auto
+https://dev-galaxy-lifetime.pantheonsite.io/peopleareawe
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-name="Fight Sports - [Channel 304].id" tvg-logo="https://cdn.tvpassport.com/image/show/960x540/v2/p11112077_b_h10_ab.jpg" group-title="GP_FIGHT AUTO", FIGHT SPORTS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/fightsports.mpd
+#EXTINF: -1 tvg-id="FightNetwork.ca" tvg-logo="https://mmauk.net/wp-content/uploads/2018/07/fight-network.jpg" group-title="GP_FIGHT AUTO", FIGHT NETWORK Auto
+https://dev-galaxy-lifetime.pantheonsite.io/fightnetwork
+#EXTINF: -1 tvg-id="GloryKickboxing.us" tvg-logo="https://external-preview.redd.it/Bx91Xle0vq1Rfu0L_QMvze_QyB6ZIUZUUaB5aN7Ooyc.jpg?width=640&crop=smart&auto=webp&s=6e6c5a505c3696d8bab050446c9c1bea8023e0f6" group-title="GP_FIGHT AUTO", GLORY KICKBOXING Auto
+https://dev-galaxy-lifetime.pantheonsite.io/glorykickbox
+#EXTINF: -1 tvg-id="HardKnocks.ca" tvg-logo="https://cowboyswire.usatoday.com/wp-content/uploads/sites/73/2021/08/HardKnocks_InstantReactions.png?w=1000&h=600&crop=1" group-title="GP_FIGHT AUTO", HARD KNOCKS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hardknocks
+#EXTINF: -1 tvg-id="IMPACTWrestling.us" tvg-logo="https://static.wixstatic.com/media/5cf6a5_3d860754556e42278a9fab64fca69b6d~mv2.jpg/v1/fill/w_640,h_400,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/5cf6a5_3d860754556e42278a9fab64fca69b6d~mv2.jpg" group-title="GP_FIGHT AUTO", IMPACT WRESTLING Auto
+https://dev-galaxy-lifetime.pantheonsite.io/impactwrestling
+
+#EXTINF:-1 xui-id="163" tvg-id="AstroSuperSport.my" tvg-name="Astro Supersport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 1 FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/assp1-fhd
+
+#EXTINF:-1 xui-id="164" tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 2 FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/assp2-fhd
+
+#EXTINF:-1 xui-id="165" tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 3 FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/assp3-fhd
+
+#EXTINF:-1 xui-id="166" tvg-id="AstroSuperSport4.my" tvg-name="Astro Supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 4 FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
+
+#EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 1 ID Auto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6299&type=drm 
+#https://srtv.my.id/vd/play.mpd?id=6299&type=dash
+
+#EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 1 ID FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/beinsports1id-fhd
+
+#EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 3 ID Auto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6317&type=drm 
+#https://srtv.my.id/vd/play.mpd?id=6317&type=dash
+
+#EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 3 ID FHD
+#https://dev-galaxy-lifetime.pantheonsite.io/beinsports3id-fhd
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="GP_CHAMPIONS TV",Champions TV 1 Auto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm
+#https://srtv.my.id/vd/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="GP_CHAMPIONS TV",Champions TV 2 Auto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
+#https://srtv.my.id/vd/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-title="GP_CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5 Auto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm 
+#https://srtv.my.id/vd/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="GP_CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6 Auto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
+#https://srtv.my.id/vd/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 group-title="GP_CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/oA7FNQrjU1piI0FPz2z0bye5XjQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Premier League Auto
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
+#https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="Sportstars - [Channel 102].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="GP_MNC SPORTS", SPORTSTAR 1 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sportstar1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="GP_MNC SPORTS", SPORTSTAR 2 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sportstar2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF: -1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="GP_MNC SPORTS", SPORTSTAR 3 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sportstar3.mpd
+
+#EXTINF: -1 tvg-id="SonySportsTen1.in" tvg-logo="https://wallpapers.com/images/featured/sony-logo-6p57zp82jpjv7wj6.jpg" group-title="GP_SONY SPORTS", SONY TEN 1 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sonyten1
+#EXTINF: -1 tvg-id="SonyTen2.in" tvg-logo="https://wallpapers.com/images/featured/sony-logo-6p57zp82jpjv7wj6.jpg" group-title="GP_SONY SPORTS", SONY TEN 2 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sonyten2
+#EXTINF: -1 tvg-id="SonyTen3.in" tvg-logo="https://wallpapers.com/images/featured/sony-logo-6p57zp82jpjv7wj6.jpg" group-title="GP_SONY SPORTS", SONY TEN 3 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sonyten3
+#EXTINF: -1 tvg-id="SonyTen4.in" tvg-logo="https://wallpapers.com/images/featured/sony-logo-6p57zp82jpjv7wj6.jpg" group-title="GP_SONY SPORTS", SONY TEN 4 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sonyten4
+#EXTINF: -1 tvg-id="SonyTen5.in" tvg-logo="https://wallpapers.com/images/featured/sony-logo-6p57zp82jpjv7wj6.jpg" group-title="GP_SONY SPORTS", SONY TEN 5 Auto
+https://dev-galaxy-lifetime.pantheonsite.io/sonyten5
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="GP_TRUE SPORTS", True Premier Football 1
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/2Q9rxrzgEWRJUld4uWVPWzTP5Ok=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="GP_TRUE SPORTS", True Premier Football 2
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+#EXTINF: -1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg" group-title="GP_TRUE SPORTS", True Sports 1
+https://smart-tv.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+#EXTINF: -1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg" group-title="GP_TRUE SPORTS", True Sports 2
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+#EXTINF: -1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/social/premier-league.jpg" group-title="GP_TRUE SPORTS", True Sports 3
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="=====VOD=====", +10K Untuk Nonton VOD
+https://dev-galaxy-lifetime.pantheonsite.io/
+
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="=====VOD=====", Bisa Request VOD
+https://dev-galaxy-lifetime.pantheonsite.io/
+
+#EXTINF: -1 tvg-logo="https://bk21official.lol/wp-content/uploads/2024/03/8GlBl00JOIywYNkoeRc0Fnzwr8O.jpg" group-title="INDO HOROR", Kultus Iblis (2024)
+https://d01.litvp.com/data/B/31/Xnz0kygn9SvHyvySeRk5GhOWxolCXvmsnWp/Xnz0kygn9SvHyvySeRk5GhOWxolCXvmsnWp720.mp4?
+#EXTINF: -1 tvg-logo="https://bk21official.lol/wp-content/uploads/2024/02/rVBVNA6iV6DeyFSemECX9kNNEQs-170x255.jpg" group-title="INDO HOROR", Susuk- Kutukan Kecantikan (2024)
+https://d01.litvp.com/data/7/6C/aMDTTtXvjL4tThoPUgianiVxf4c8ES10Wgt/aMDTTtXvjL4tThoPUgianiVxf4c8ES10Wgt720.mp4?
+#EXTINF: -1 tvg-logo="https://bk21official.lol/wp-content/uploads/2023/11/zoEa7rP7M9vx1ogLudwPwTjyXKX.jpg" group-title="INDO HOROR", Aku Tahu Kapan Kamu Mati- Desa Bunuh Diri (2024)
+https://d46.litvp.com/data/2/49/LoT3susocRgjJoUJejKDA3FkuuL4X8ausFc/LoT3susocRgjJoUJejKDA3FkuuL4X8ausFc720.mp4?
+#EXTINF: -1 tvg-logo="https://bk21official.lol/wp-content/uploads/2024/02/3b2X0orkRYheWWZPUy02zaBDwTW-170x255.jpg" group-title="INDO HOROR", Ritual Tumbal Terakhir (2024)
+https://d59.litvp.com/data/7/52/mYD4iEEHQpgLMJsKAZMdzbxcXsTCUVHrXJt/mYD4iEEHQpgLMJsKAZMdzbxcXsTCUVHrXJt720.mp4?
+#EXTINF: -1 tvg-logo="https://bk21official.lol/wp-content/uploads/2023/12/yS0FPDYLRIrqF2lSX2NG2qLezgO-170x255.jpg" group-title="INDO HOROR", Tasbih Kosong (2023)
+https://d60.litvp.com/data/8/9C/nY9PIb6xA0hwybsMyddNZIe7Tkrj9AXD9s7/nY9PIb6xA0hwybsMyddNZIe7Tkrj9AXD9s7720.mp4?
+#EXTINF: -1 tvg-logo="https://bk21official.lol/wp-content/uploads/2023/11/x2oIKlgH15boxdQncGLoKv44TwP.jpg" group-title="INDO HOROR", Indigo (2023)
+https://d61.litvp.com/data/E/CE/sD6WSaLsR59vhrQ2YYOzBhf20JZuKp4672i/sD6WSaLsR59vhrQ2YYOzBhf20JZuKp4672i720.mp4?
+#EXTINF: -1 tvg-logo="https://bk21official.lol/wp-content/uploads/2023/11/8uHden41KAjpyLQZKaAgFZsnEXk.jpg" group-title="INDO HOROR", Bangku Kosong: Ujian Terakhir (2023)
+https://d66.litvp.com/data/3/14/GzNJG5C7iB7Ge1qILydztq0vg77p0F3AXCX/GzNJG5C7iB7Ge1qILydztq0vg77p0F3AXCX720.mp4?
+#EXTINF: -1 tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/23015400.jpg" group-title="INDO HOROR", PRIMBON (2023)
+https://d01.litvp.com/data/E/FE/km4X4da5KXuuNjFc2zEZ4g18RIP5o3AYs0W/km4X4da5KXuuNjFc2zEZ4g18RIP5o3AYs0W720.mp4?
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2019/12/film-code-8-2019-lk21.jpg.webp" group-title="GALAXY VOD", CODE 8 (2019)
+https://d34.litvp.com/data/8/8B/VkgK1O3BLhnoyal0zgCfqo6sWygolVNAs2u/VkgK1O3BLhnoyal0zgCfqo6sWygolVNAs2u720.mp4?
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg.webp" group-title="GALAXY VOD", Wrath of Man (2021)
+https://www.dropbox.com/scl/fi/ns03moa226d2tno619bg1/D21.FUN-Wrath-of-Man-2021-1080p.mp4?rlkey=8t9e0l1lp33d3hgxrk22yhzsw&raw=1
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-unthinkable-2010.jpg.webp" group-title="GALAXY VOD", Unthinkable (2010)
+https://www.dropbox.com/scl/fi/aky0tvk5x0d5rg5skhv0r/D21.FUN-Unthinkable-2010-720p.mp4?rlkey=ctfs3q2nb9edtb6t5l72ke4mx&raw=1
+
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-prey-2024-lk21-d21.jpg.webp" group-title="VOD 2024", PREY (2024)
+https://d46.litvp.com/data/9/5C/iuh4ZawuII5t6ikY308CEmt1WJLBsnlGYn5/iuh4ZawuII5t6ikY308CEmt1WJLBsnlGYn5720.mp4?
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-madame-web-2024-lk21-d21.jpg.webp" group-title="VOD 2024", MADAME WEB (2024)
+https://d46.litvp.com/data/9/B6/4QOlakjIOk1uaHoEELFFUsmUwExrr9KU2kG/4QOlakjIOk1uaHoEELFFUsmUwExrr9KU2kG720.mp4?
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/03/film-the-bloody-hundredth-2024-lk21-d21.jpg.webp" group-title="VOD 2024", THE BLOODY HUNDREDTH (2024)
+https://d47.litvp.com/data/A/31/WIAFmu52m6PqH9EMJ9P158FZtekwPJchpWK/WIAFmu52m6PqH9EMJ9P158FZtekwPJchpWK720.mp4?
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/03/film-damsel-2024-lk21-d21.jpg.webp" group-title="VOD 2024", DAMSEL (2024)
+https://d64.litvp.com/data/9/16/zKu0PohBh6XYFQTc5749XHJJDgSvU07zWkm/zKu0PohBh6XYFQTc5749XHJJDgSvU07zWkm720.mp4?
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/02/film-code-8-part-ii-2024-lk21-d21.jpg.webp" group-title="VOD 2024", CODE 8: PART II (2024)
+https://d57.litvp.com/data/0/1C/y1KRvTUwXshR7YGrnvPqHD9Y3LOKTuppPN7/y1KRvTUwXshR7YGrnvPqHD9Y3LOKTuppPN7720.mp4?
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-land-of-bad-2024-lk21-d21.jpg.webp" group-title="VOD 2024", LAND OF BAD (2024)
+https://d57.litvp.com/data/7/F1/Y6M9diKn5QNFOZF5EG8CAhIaliNPoCUkgL5/Y6M9diKn5QNFOZF5EG8CAhIaliNPoCUkgL5720.mp4?
+#EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/01/film-one-more-shot-2024-lk21-d21.jpg.webp" group-title="VOD 2024", One More Shot (2024)
+https://d47.litvp.com/data/1/7D/LxAdoFZWgosIHZ8Srf9wmJMdRqA2yvNSRau/LxAdoFZWgosIHZ8Srf9wmJMdRqA2yvNSRau720.mp4?
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-hellhound-2024-lk21-d21.jpg.webp" group-title="VOD 2024", Hellhound (2024)
+https://d48.litvp.com/data/3/97/OCyKOWR9GEMimR8rlMDErsscjqVPrJM1lA4/OCyKOWR9GEMimR8rlMDErsscjqVPrJM1lA4720.mp4?
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg.webp" group-title="VOD 2024", The Beekeeper (2024)
+https://www.dropbox.com/scl/fi/q9c4f4qhevwdksi4gm939/D21.FUN-The-Beekeeper-2024-1080p.mp4?rlkey=82qn0t38lzyctjxi350vm0ejv&raw=1
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-lift-2024-lk21-d21.jpg.webp" group-title="VOD 2024", Lift (2024)
+https://www.dropbox.com/scl/fi/y3gsnyp96qifj74i0mcn9/D21.FUN-Lift-2024-1080p.mp4?rlkey=b1dbqvs5r2gvtb4uz493l104c&raw=1
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/01/film-i-s-s-2024-lk21-d21.jpg.webp" group-title="VOD 2024", I.S.S. (2024)
+https://www.dropbox.com/scl/fi/r1ft909dwgaj3br1zec15/D21.FUN-I.S.S.-2024-1080p.mp4?rlkey=iusuj72iyx20cyv5hxe3gb9n1&raw=1
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/02/film-the-animal-kingdom-2023-lk21-d21.jpg.webp" group-title="VOD 2023", THE ANIMAL KINGDOM (2023)
+https://d03.litvp.com/data/A/86/RCfKiq1d0eXA4Dy9kjEq0olGyCySuWVcSc3/RCfKiq1d0eXA4Dy9kjEq0olGyCySuWVcSc3720.mp4?
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/02/film-dogman-2023-lk21-d21.jpg.webp" group-title="VOD 2023", DOGMAN (2023)
+https://d52.litvp.com/data/1/D1/xPuuNvZMQk9AxZUjc3cT6fIaBh9wlxG28DA/xPuuNvZMQk9AxZUjc3cT6fIaBh9wlxG28DA720.mp4?
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-bring-him-to-me-2023-lk21-d21.jpg.webp" group-title="VOD 2023", BRING HIM TO ME (2023)
+https://d48.litvp.com/data/C/86/9q5NLHSDdbXC8iBub4WGFu8q97smYo0dqfZ/9q5NLHSDdbXC8iBub4WGFu8q97smYo0dqfZ720.mp4?
+#EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/12/film-the-family-plan-2023-lk21-d21.jpg.webp" group-title="VOD 2023", The Family Plan (2023)
+https://d49.litvp.com/data/2/03/GqqpA9qiIuR9DAGR77Fmm7uja7JXqPGmOpH/GqqpA9qiIuR9DAGR77Fmm7uja7JXqPGmOpH720.mp4?
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/12/film-rebel-moon-part-one-a-child-of-fire-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Rebel Moon: Part One – A Child of Fire (2023)
+https://d59.litvp.com/data/5/8F/ppt1Ul6flHBvh91BFQTAT5giNccFAR2hhSI/ppt1Ul6flHBvh91BFQTAT5giNccFAR2hhSI720.mp4?
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/12/film-malbatt-misi-bakara-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Malbatt: Misi Bakara (2023)
+https://d67.litvp.com/data/D/B7/2sFWvVo2xho9OaS2gyCcVVhHUipw8ke1KIY/2sFWvVo2xho9OaS2gyCcVVhHUipw8ke1KIY720.mp4?
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/01/film-the-dirty-south-2023-lk21-d21.jpg.webp" group-title="VOD 2023", The Dirty South (2023)
+https://d53.litvp.com/data/D/99/m3H5hpg1iiXWtev2rgYEwfRwPHzSCxOMpU6/m3H5hpg1iiXWtev2rgYEwfRwPHzSCxOMpU6720.mp4?
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="VOD 2023", John Wick: Chapter 4 (2023)
+https://d26.litvp.com/data/3/5E/bfkU68w5xNiACG3xwbSzOUBzCotrTqI2pHq/bfkU68w5xNiACG3xwbSzOUBzCotrTqI2pHq720.mp4?
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Transformers: Rise of the Beasts (2023)
+https://www.dropbox.com/scl/fi/87xs8cu5f8mk5zlbx905t/2.-Transformers-Rise-of-the-Beasts-2023-720p.mp4?rlkey=n3udlhyq3ounsffalsutdmcp4&raw=1
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/02/film-society-of-the-snow-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Society of the Snow (2023)
+https://www.dropbox.com/scl/fi/2jecdwc9nrgnetpvq1j1h/D21.FUN-Society-of-the-Snow-2023-1080p.mp4?rlkey=gph3i8obwu2o9sopfwcsvhjli&raw=1
+#EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/03/film-operation-fortune-ruse-de-guerre-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Operation Fortune: Ruse de guerre (2023)
+https://www.dropbox.com/scl/fi/vx0kiev7szzs0xc5i59og/D21.FUN-Operation-Fortune-Ruse-de-guerre-2023-1080p.mp4?rlkey=3br5rhpfucdvyw0khvkmxbgww&raw=1
+#EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/02/film-life-and-death-confrontation-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Life and Death Confrontation (2023)
+https://www.dropbox.com/scl/fi/jj5anslrzj3gjooga761w/D21.FUN-Life-and-Death-Confrontation-2023-1080p.mp4?rlkey=d5cd997wfvo9p3reh1fe02uu5&raw=1
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-the-marvels-2023-lk21-d21.jpg.webp" group-title="VOD 2023", The Marvels (2023)
+https://d69.litvp.com/data/F/7D/prQ0Dz9TR5ZHCA7p7VjCo8QHRP2lNo1O6Iu/prQ0Dz9TR5ZHCA7p7VjCo8QHRP2lNo1O6Iu720.mp4?
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Meg 2: The Trench (2023)
+https://d67.litvp.com/data/3/B0/CcIczt7eGcLKMs5qhvz3fkwROLl8cxlW4Fv/CcIczt7eGcLKMs5qhvz3fkwROLl8cxlW4Fv720.mp4?
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/08/film-the-dive-2023-lk21-d21.jpg.webp" group-title="VOD 2023", The Dive (2023)
+https://d03.litvp.com/data/3/A3/vL5W3JT2MQFVpInkLvO9D1DlzfH86GeA7GV/vL5W3JT2MQFVpInkLvO9D1DlzfH86GeA7GV720.mp4?
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/09/film-blue-beetle-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Blue Beetle (2023)
+https://d49.litvp.com/data/F/20/AuiH17QJFt8ikRthj408bwK3t7cxfqQxnzu/AuiH17QJFt8ikRthj408bwK3t7cxfqQxnzu720.mp4?
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/12/film-the-hunger-games-the-ballad-of-songbirds-snakes-2023-lk21-d21.jpg.webp" group-title="VOD 2023", The Hunger Games: The Ballad of Songbirds & Snakes (2023)
+https://d67.litvp.com/data/9/F5/ye5fi3OGQ1JFe2P4JbUx7zvIvngqDM4ETNH/ye5fi3OGQ1JFe2P4JbUx7zvIvngqDM4ETNH720.mp4?
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-freelance-2023-lk21-d21.jpg.webp" group-title="VOD 2023", Freelance (2023)
+https://d69.litvp.com/data/A/FC/3XAFLK5S2xw2zxeABU3DsjX5WTWlEHho4Rf/3XAFLK5S2xw2zxeABU3DsjX5WTWlEHho4Rf720.mp4?
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-orion-and-the-dark-2024-lk21-d21.jpg.webp" group-title="ANIMASI", Orion and the Dark (2024)
+https://www.dropbox.com/scl/fi/obah9ysk9dx2058lrz055/D21.FUN-Orion-and-the-Dark-2024-1080p.mp4?rlkey=tvb97jq04tqkocn9yz09e097p&raw=1
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-migration-2023-lk21-d21.jpg.webp" group-title="ANIMASI", Migration (2023)
+https://www.dropbox.com/scl/fi/ih3oka2a9fh9prz19uabe/D21.FUN-Migration-2023-1080p.mp4?rlkey=g7r3i8tgsuwrzza0qbjpgbob8&raw=1
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2021/03/film-raya-and-the-last-dragon-2021-lk21.jpg.webp" group-title="ANIMASI", Raya and the Last Dragon (2021)
+https://www.dropbox.com/scl/fi/olehu6co4ku5orrq80hhl/D21.FUN-Raya-and-the-Last-Dragon-2021-1080p.mp4?rlkey=bvuf95qiv0cslqie7uqt302xj&raw=1
+
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/12/film-eye-for-an-eye-2022-lk21-d21.jpg.webp" group-title="CHINA", EYE FOR AN EYE (2022)
+https://d69.litvp.com/data/C/47/jaeYbU0CjYDas0yhRKwfmUjTImgrFjZ6HJb/jaeYbU0CjYDas0yhRKwfmUjTImgrFjZ6HJb720.mp4?
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-eye-for-an-eye-2-mu-zhong-wu-ren-2-2024-lk21-d21.jpg.webp" group-title="CHINA", EYE FOR AN EYE 2 (MU ZHONG WU REN 2) (2024)
+https://d01.litvp.com/data/7/E4/1M8qrG9rAI1CQbsR3sbwnHaPOCJRrog6kBx/1M8qrG9rAI1CQbsR3sbwnHaPOCJRrog6kBx720.mp4?
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-where-the-wind-blows-2023-lk21-d21.jpg.webp" group-title="CHINA", WHERE THE WIND BLOWS (2023)
+https://d67.litvp.com/data/2/80/LzDYxaRdVoDOq09pvcNfP1sH4EHhRuhyHWO/LzDYxaRdVoDOq09pvcNfP1sH4EHhRuhyHWO720.mp4?
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/01/film-under-the-light-2023-lk21-d21.jpg.webp" group-title="CHINA", UNDER THE LIGHT (2023)
+https://d51.litvp.com/data/5/7F/rQNfZTDM9a6OavbmaWWYWvXeWqPC1V2OPWQ/rQNfZTDM9a6OavbmaWWYWvXeWqPC1V2OPWQ720.mp4?
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-the-abandoned-2023-lk21-d21.jpg.webp" group-title="CHINA", THE ABANDONED (2023)
+https://d68.litvp.com/data/6/A2/FdiBaXCciorKWmFyGoqwVbKQrVSQhujqT8b/FdiBaXCciorKWmFyGoqwVbKQrVSQhujqT8b720.mp4?
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/02/film-angry-pursuit-2023-lk21-d21.jpg.webp" group-title="CHINA", Angry Pursuit (2023)
+https://www.dropbox.com/scl/fi/r44ytdik5zq1uqh5m9xup/D21.FUN-Angry-Pursuit-2023-1080p.mp4?rlkey=qkwxro9pa3s5t5ms4q89gaxd2&raw=1
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/02/film-xi-you-zhi-shuang-sheng-zhanshen-2021-lk21-d21.jpg.webp" group-title="CHINA", Xi you zhi Shuang sheng zhanshen (2021)
+https://d64.litvp.com/data/5/5F/POkqtRFRK7OSd5e2ydLk6g8gQ9p6wiuC1iM/POkqtRFRK7OSd5e2ydLk6g8gQ9p6wiuC1iM720.mp4?
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-beauty-snake-2023-lk21-d21.jpg.webp" group-title="CHINA", Beauty Snake (2023)
+https://d63.litvp.com/data/8/81/XbFsriJxdoXiNqlQJmEnW0VPvYZ9aZXJaaQ/XbFsriJxdoXiNqlQJmEnW0VPvYZ9aZXJaaQ720.mp4?
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-godzilla-2014.jpg.webp" group-title="GODZILLA", Godzilla (2014)
+https://www.dropbox.com/scl/fi/b8cv84cyyql0xtdrq5ghi/D21.FUN-Godzilla-2014-1080p.mp4?rlkey=592qhbyn7owvrvb5rhlldhv3y&raw=1
+#EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2019/06/film-godzilla-king-of-the-monsters-2019-lk21.jpg.webp" group-title="GODZILLA", Godzilla: King of the Monsters (2019)
+https://www.dropbox.com/scl/fi/2yzfvzpws6hug458jf4qn/D21.FUN-Godzilla-King-of-the-Monsters-2019-1080p.mp4?rlkey=3c0ohpn33zqdt3rr5y89wjjhc&raw=1
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2021/04/film-godzilla-vs-kong-2021-lk21.jpg.webp" group-title="GODZILLA", Godzilla vs. Kong (2021)
+https://www.dropbox.com/scl/fi/hdszebh10p03lvgc5emws/D21.FUN-Godzilla-vs.-Kong-2021-1080p.mp4?rlkey=jr3pvv4klxrmk16kvayzyuuu7&raw=1
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/02/film-12-12-the-day-2023-lk21-d21.jpg.webp" group-title="KOREA", 12.12: THE DAY (2023)
+https://d46.litvp.com/data/D/3B/ycKffkbjyKoBKUvMxHvpBEVG68A1pEX9iQi/ycKffkbjyKoBKUvMxHvpBEVG68A1pEX9iQi720.mp4?
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/01/film-the-wild-2023-lk21-d21.jpg.webp" group-title="KOREA", THE WILD (2023)
+https://d60.litvp.com/data/8/EC/1DUCknwz6DBWfFoUalY3Oo4ac80zHEXLPnF/1DUCknwz6DBWfFoUalY3Oo4ac80zHEXLPnF720.mp4?
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/01/film-dr-cheon-and-lost-talisman-2023-lk21-d21.jpg.webp" group-title="KOREA", CHEON AND LOST TALISMAN (2023)
+https://d53.litvp.com/data/1/41/vWHUOmq4b2SAMGVW86c0fB8S3HgBGBOnHAA/vWHUOmq4b2SAMGVW86c0fB8S3HgBGBOnHAA720.mp4?
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-badland-hunters-2024-lk21-d21.jpg.webp" group-title="KOREA", Badland Hunters (2024)
+https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-2024-1080p.mp4?rlkey=kh57gfr1xpkocv5td9i88oz8n&raw=1
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-the-moon-2023-lk21-d21.jpg.webp" group-title="KOREA", The Moon (2023)
+https://d65.litvp.com/data/4/38/QvaW1lCyNPhgYevkhhwqS9S5rYbFlXFxuAo/QvaW1lCyNPhgYevkhhwqS9S5rYbFlXFxuAo720.mp4?
+#EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-the-roundup-no-way-out-2023-lk21-d21.jpg.webp" group-title="KOREA", The Roundup: No Way Out (2023)
+https://www.dropbox.com/scl/fi/bemyvuf3w25iff6es5r6v/D21.FUN-The-Roundup-No-Way-Out-2023-1080p.mp4?rlkey=mc4vr2wv8cic9hj3dsuql5k2t&raw=1
