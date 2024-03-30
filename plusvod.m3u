@@ -20,8 +20,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd|http-referrer=https://d
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR SD
 #https://dev-galaxy-lifetime.pantheonsite.io/indosiar
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR HD
-#https://dev-galaxy-lifetime.pantheonsite.io/indosiar-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/indosiar-fhd
 
 #EXTINF: -1 tvg-name="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/indosiar27
@@ -119,8 +120,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-g
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV SD
 #https://dev-galaxy-lifetime.pantheonsite.io/sctv
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV HD
-#https://dev-galaxy-lifetime.pantheonsite.io/sctv-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/sctv-fhd
 
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="GP_INDONESIA", SCTV FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/sctv27
