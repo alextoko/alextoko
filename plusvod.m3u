@@ -80,8 +80,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
 #EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="GP_INDONESIA", MOJI Auto
 https://dev-galaxy-lifetime.pantheonsite.io/moji.mpd
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="GP_INDONESIA", MOJI HD
-#https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
 
 #EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="GP_INDONESIA", MOJI FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/moji27
