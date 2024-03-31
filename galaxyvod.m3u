@@ -554,17 +554,18 @@ https://dev-galaxy-lifetime.pantheonsite.io/hardknocks
 #EXTINF: -1 tvg-id="IMPACTWrestling.us" tvg-logo="https://static.wixstatic.com/media/5cf6a5_3d860754556e42278a9fab64fca69b6d~mv2.jpg/v1/fill/w_640,h_400,al_b,q_80,usm_0.66_1.00_0.01,enc_auto/5cf6a5_3d860754556e42278a9fab64fca69b6d~mv2.jpg" group-title="GP_FIGHT AUTO", IMPACT WRESTLING Auto
 https://dev-galaxy-lifetime.pantheonsite.io/impactwrestling
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="163" tvg-id="AstroSuperSport.my" tvg-name="Astro Supersport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 1 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp1-fhd
-
+https://dev-galaxy-lifetime.pantheonsite.io/assp1-fhd
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="164" tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 2 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp2-fhd
-
+https://dev-galaxy-lifetime.pantheonsite.io/assp2-fhd
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="165" tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 3 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp3-fhd
-
+https://dev-galaxy-lifetime.pantheonsite.io/assp3-fhd
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="166" tvg-id="AstroSuperSport4.my" tvg-name="Astro Supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="GP_ASTRO SPORTS",Astro Supersport 4 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
 
 #EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 1 ID Auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
