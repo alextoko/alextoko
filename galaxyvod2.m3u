@@ -189,11 +189,12 @@ https://dev-galaxy-lifetime.pantheonsite.io/sindonews.mpd
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE Auto
 https://dev-galaxy-lifetime.pantheonsite.io/tvone
 
-#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE HD
+#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/tvone27
 
-#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/tvone-fhd
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE HD
+https://dev-galaxy-lifetime.pantheonsite.io/tvone-fhd
 
 #EXTINF: -1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvri.jpg" group-title="GP_INDONESIA", TVRI NASIONAL Auto
 https://dev-galaxy-lifetime.pantheonsite.io/tvri
@@ -325,6 +326,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/cn.mpd|http-referrer=https://dev-gal
 https://dev-galaxy-lifetime.pantheonsite.io/dreamwork.mpd
 #EXTINF: -1 tvg-id="IndiKids.id" tvg-logo="https://bumntrack.co.id/wp-content/uploads/2021/07/20210723_165941-1024x569.jpg" group-title="GP_ANAK-ANAK", FUN PLANET Auto
 https://dev-galaxy-lifetime.pantheonsite.io/funplanet
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-logo="https://www.shutterstock.com/image-illustration/logo-childrens-television-bright-colored-260nw-1173311566.jpg" group-title="GP_ANAK-ANAK",Kids TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+
 #EXTINF: -1 tvg-logo="https://hometv.pw/logo/kids/horee.png" group-title="GP_ANAK-ANAK", HOREE SD
 https://dev-galaxy-lifetime.pantheonsite.io/horee
 #EXTINF: -1 tvg-name="My Kidz - [Channel 50].id" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="GP_ANAK-ANAK", MY KIDZ FHD
@@ -575,8 +583,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6299&type=drm 
 #https://srtv.my.id/vd/play.mpd?id=6299&type=dash
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 1 ID FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/beinsports1id-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/beinsports1id-fhd
 
 #EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 3 ID Auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -586,8 +595,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6317&type=drm 
 #https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="GP_BEIN SPORTS", BEIN SPORTS 3 ID FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/beinsports3id-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/beinsports3id-fhd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="GP_CHAMPIONS TV",Champions TV 1 Auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
