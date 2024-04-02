@@ -1,4 +1,120 @@
 
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ofmrQJGysiFnaxIdhDXhsbQyeGg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="FLIX TV - TV NASIONAL", RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", RCTI_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", RCTI_Server 3
+http://103.226.232.196:8000/play/a00a/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NZy4IEZXngGp5YlqpIQOWM3pH1U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="FLIX TV - TV NASIONAL", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", MNCTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", MNCTV_Server 3
+http://103.226.232.196:8000/play/a008/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YR-pUEut4i7WADsTuUTe3XIfnu8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="FLIX TV - TV NASIONAL", GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", GTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/632.ts
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", GTV_Server 3
+http://103.226.232.196:8000/play/a00d/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkFKLMQEXbJropYF7sh7D33fVaM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="FLIX TV - TV NASIONAL", iNEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-inews.rctiplus.id/inews-sdi.mpd
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", iNEWS_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", iNEWS_Server 3
+http://103.226.232.196:8000/play/a01i/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="FLIX TV - TV NASIONAL", SCTV
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=sctv
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="FLIX TV - TV NASIONAL", SCTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.ts
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="FLIX TV - TV NASIONAL", SCTV_Server 3
+http://103.226.232.196:8000/play/a013/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DIqu2MDaLnOlvTYxecT9EVJXDR0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="FLIX TV - TV NASIONAL", Indosiar
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=indosiar
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="FLIX TV - TV NASIONAL", Indosiar_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="FLIX TV - TV NASIONAL", Indosiar_Server 3
+http://103.226.232.196:8000/play/a00l/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/R6PID3GRoGNE4JIq9fjfNCQTYmo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="FLIX TV - TV NASIONAL", TRANSTV
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=transtv
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="FLIX TV - TV NASIONAL", TRANSTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="FLIX TV - TV NASIONAL", TRANSTV_Server 3
+http://103.226.232.196:8000/play/a016/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hfSgVb256JvcaGDLMm5wI0Qj1NI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="FLIX TV - TV NASIONAL", TRANS7
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=trans7
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="FLIX TV - TV NASIONAL", TRANS7_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="FLIX TV - TV NASIONAL", TRANS7_Server 3
+http://103.226.232.196:8000/play/a015/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UvM8FunoJC8v-KmlMOxJ7yFE7qw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="FLIX TV - TV NASIONAL", Metro TV
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=metrotv
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="FLIX TV - TV NASIONAL", Metro TV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/638.ts
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="FLIX TV - TV NASIONAL", Metro TV_Server 3
+http://103.226.232.196:8000/play/a018/index.m3u8
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="FLIX TV - TV NASIONAL", ANTV
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=antv
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="FLIX TV - TV NASIONAL", ANTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="FLIX TV - TV NASIONAL", ANTV_Server 3
+http://103.226.232.196:8000/play/a009/index.m3u8
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/stn_xzEBBDF0BDuxM9iNypkhsN4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-a88018.jpg" group-title="FLIX TV - TV NASIONAL", TVONE
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=tvone
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="FLIX TV - TV NASIONAL", TVONE_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="FLIX TV - TV NASIONAL", TVONE_Server 3
+http://103.226.232.196:8000/play/a010/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="FLIX TV - TV NASIONAL", NET
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=net
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="FLIX TV - TV NASIONAL", NET_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/637.ts
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="FLIX TV - TV NASIONAL", RTV
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=rtv
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="FLIX TV - TV NASIONAL", RTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/640.ts
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHHdz-Y50b34HI_WD-w8t4JdQQw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" group-title="FLIX TV - TV NASIONAL", Kompas TV
+#EXTVLCOPT:http-user-agent=aura1234
+https://lilirplay.my.id/indihome/index.m3u8?id=kompastv
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="FLIX TV - TV NASIONAL", Kompas TV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/639.ts
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="FLIX TV - TV NASIONAL", Moji
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DLw0dsS/Moji.jpg" group-title="FLIX TV - TV NASIONAL", Moji_Server 2
+http://103.226.232.196:8000/play/a022/index.m3u8
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/j_gKn4FRYReHoUYdcRr9Ey7vXF8=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="FLIX TV - TV NASIONAL", Mentari TV
+http://103.226.232.196:8000/play/a007/index.m3u8
+#EXTINF: -1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="FLIX TV - TV NASIONAL", VTV
+http://103.226.232.196:8000/play/a00p/index.m3u8
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Il3vUFfvvfaMbB8gkww7vAwkFsg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="FLIX TV - TV NASIONAL", TVRI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://testfunctionlive.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/kBXZtZS/BN-Channel.jpg" group-title="FLIX TV - TV NASIONAL", BN TV
+http://103.226.232.196:8000/play/a01j/index.m3u8
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="GP_INDONESIA", INDOSIAR HD
 https://dev-galaxy-lifetime.pantheonsite.io/indosiar-fhd
