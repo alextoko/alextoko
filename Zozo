@@ -1,3 +1,15 @@
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ofmrQJGysiFnaxIdhDXhsbQyeGg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="FLIX TV - TV NASIONAL", RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd|http-referrer=https://www.rctiplus.com/
+
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ofmrQJGysiFnaxIdhDXhsbQyeGg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="FLIX TV - TV NASIONAL", RCTI dalvik
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd|http-referrer=https://www.rctiplus.com/
+
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ofmrQJGysiFnaxIdhDXhsbQyeGg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="FLIX TV - TV NASIONAL", RCTI andoid
+#EXTVLCOPT:http-user-agent=android-R+
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd|http-referrer=https://www.rctiplus.com/
 
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ofmrQJGysiFnaxIdhDXhsbQyeGg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="FLIX TV - TV NASIONAL", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
