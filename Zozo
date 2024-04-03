@@ -217,11 +217,6 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=733&type=hls
 
-#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
-
 #EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
