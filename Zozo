@@ -76,7 +76,7 @@ https://lilirplay.my.id/indihome/index.m3u8?id=horee
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DIqu2MDaLnOlvTYxecT9EVJXDR0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="FLIX TV - TV NASIONAL", Indosiar
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=indosiar
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="FLIX TV - TV NASIONAL", Indosiar_Server 2
@@ -86,7 +86,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 http://103.226.232.196:8000/play/a00l/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/R6PID3GRoGNE4JIq9fjfNCQTYmo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="FLIX TV - TV NASIONAL", TRANSTV
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=transtv
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="FLIX TV - TV NASIONAL", TRANSTV_Server 2
@@ -96,7 +96,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
 http://103.226.232.196:8000/play/a016/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hfSgVb256JvcaGDLMm5wI0Qj1NI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="FLIX TV - TV NASIONAL", TRANS7
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=trans7
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="FLIX TV - TV NASIONAL", TRANS7_Server 2
@@ -106,7 +106,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
 http://103.226.232.196:8000/play/a015/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UvM8FunoJC8v-KmlMOxJ7yFE7qw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="FLIX TV - TV NASIONAL", Metro TV
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=metrotv
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="FLIX TV - TV NASIONAL", Metro TV_Server 2
@@ -116,7 +116,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/638.ts
 http://103.226.232.196:8000/play/a018/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="FLIX TV - TV NASIONAL", ANTV
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=antv
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="FLIX TV - TV NASIONAL", ANTV_Server 2
@@ -126,7 +126,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
 http://103.226.232.196:8000/play/a009/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/stn_xzEBBDF0BDuxM9iNypkhsN4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-a88018.jpg" group-title="FLIX TV - TV NASIONAL", TVONE
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=tvone
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="FLIX TV - TV NASIONAL", TVONE_Server 2
@@ -136,21 +136,21 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
 http://103.226.232.196:8000/play/a010/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="FLIX TV - TV NASIONAL", NET
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=net
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="FLIX TV - TV NASIONAL", NET_Server 2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/637.ts
 
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="FLIX TV - TV NASIONAL", RTV
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=rtv
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="FLIX TV - TV NASIONAL", RTV_Server 2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/640.ts
 
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHHdz-Y50b34HI_WD-w8t4JdQQw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" group-title="FLIX TV - TV NASIONAL", Kompas TV
-#EXTVLCOPT:http-user-agent=aura1234
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=kompastv
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="FLIX TV - TV NASIONAL", Kompas TV_Server 2
@@ -876,13 +876,3 @@ https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MY FAMILY CHANNEL HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
-
-
-
-
-
-
-
-
-
-
