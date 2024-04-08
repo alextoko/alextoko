@@ -1,3 +1,7 @@
+
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="FLIX TV - TV NASIONAL", group-title="FLIX TV - TV NASIONAL", RCTI_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts|http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+
 #EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ofmrQJGysiFnaxIdhDXhsbQyeGg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="FLIX TV - TV NASIONAL", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
