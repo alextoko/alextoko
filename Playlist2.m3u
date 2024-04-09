@@ -8,11 +8,11 @@
 https://lilirplay.my.id/indihome/index.m3u8?id=antv
 
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV SD
-#https://dev-galaxy-lifetime.pantheonsite.io/antv
+https://dev-galaxy-lifetime.pantheonsite.io/antv
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV HD
-https://dev-galaxy-lifetime.pantheonsite.io/antv-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/antv-fhd
 
 #EXTINF: -1 tvg-name="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="GP_INDONESIA", ANTV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/antv27
@@ -42,7 +42,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/gtv.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/gtv.jpg" group-title="GP_INDONESIA", GTV HD
-https://dev-galaxy-lifetime.pantheonsite.io/gtv-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/gtv-fhd
 
 #EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/gtv.jpg" group-title="GP_INDONESIA", GTV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/gtv27
@@ -68,7 +68,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/mnctv.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mnctv.jpg" group-title="GP_INDONESIA", MNCTV HD
-https://dev-galaxy-lifetime.pantheonsite.io/mnctv-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/mnctv-fhd
 
 #EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mnctv.jpg" group-title="GP_INDONESIA", MNCTV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/mnctv27
@@ -81,7 +81,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="RTV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rtv.jpg" group-title="GP_INDONESIA", RTV HD
-https://dev-galaxy-lifetime.pantheonsite.io/rtv-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/rtv-fhd
 
 #EXTINF: -1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="GP_INDONESIA", VTV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/vtv
@@ -110,7 +110,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/nettv.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="GP_INDONESIA", NET TV HD
-https://dev-galaxy-lifetime.pantheonsite.io/nettv-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/nettv-fhd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -120,7 +120,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/rcti.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rcti.jpg" group-title="GP_INDONESIA", RCTI HD
-https://dev-galaxy-lifetime.pantheonsite.io/rcti-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/rcti-fhd
 
 #EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rcti.jpg" group-title="GP_INDONESIA", RCTI FHD
 https://dev-galaxy-lifetime.pantheonsite.io/rcti27
@@ -145,12 +145,12 @@ https://dev-galaxy-lifetime.pantheonsite.io/sctv27
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="GP_INDONESIA", TRANS 7 Auto
-https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
-#https://dev-galaxy-lifetime.pantheonsite.io/trans7
+#https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+https://dev-galaxy-lifetime.pantheonsite.io/trans7
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="GP_INDONESIA", TRANS 7 HD
-https://dev-galaxy-lifetime.pantheonsite.io/trans7-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/trans7-fhd
 
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="GP_INDONESIA", TRANS 7 FHD
 https://dev-galaxy-lifetime.pantheonsite.io/trtrans727
@@ -158,12 +158,12 @@ https://dev-galaxy-lifetime.pantheonsite.io/trtrans727
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="GP_INDONESIA", TRANS TV Auto
-https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
-#https://dev-galaxy-lifetime.pantheonsite.io/transtv
+#https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+https://dev-galaxy-lifetime.pantheonsite.io/transtv
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="GP_INDONESIA", TRANS TV HD
-https://dev-galaxy-lifetime.pantheonsite.io/transtv-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/transtv-fhd
 
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="GP_INDONESIA", TRANS TV FHD
 https://dev-galaxy-lifetime.pantheonsite.io/transtv27
@@ -183,7 +183,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/inews.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/inews.jpg" group-title="GP_INDONESIA", INEWS HD
-https://dev-galaxy-lifetime.pantheonsite.io/inews-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/inews-fhd
 
 #EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/inews.jpg" group-title="GP_INDONESIA", INEWS FHD
 https://dev-galaxy-lifetime.pantheonsite.io/inews27
@@ -193,7 +193,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/kompastv.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/kompas.jpg" group-title="GP_INDONESIA", KOMPAS TV HD
-https://dev-galaxy-lifetime.pantheonsite.io/kompastv-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/kompastv-fhd
 
 #EXTINF: -1 tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/kompas.jpg" group-title="GP_INDONESIA", KOMPAS TV FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/kompas27
@@ -218,7 +218,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/tvone
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="GP_INDONESIA", TVONE HD
-https://dev-galaxy-lifetime.pantheonsite.io/tvone-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/tvone-fhd
 
 #EXTINF: -1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvri.jpg" group-title="GP_INDONESIA", TVRI NASIONAL Auto
 https://dev-galaxy-lifetime.pantheonsite.io/tvri
