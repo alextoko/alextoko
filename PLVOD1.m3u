@@ -97,7 +97,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/moji.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
 
 #EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA", MOJI FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/moji27
+https://dev-galaxy-lifetime.pantheonsite.io/moji27
 
 #EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="INDONESIA", NET TV SD
 #https://dev-galaxy-lifetime.pantheonsite.io/net
@@ -204,17 +204,21 @@ https://dev-galaxy-lifetime.pantheonsite.io/metroglobe
 #EXTINF: -1 tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/metrotv.jpg" group-title="INDONESIA", METRO TV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/metrotv
 
+#EXTINF: -1 tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/metrotv.jpg" group-title="INDONESIA", METRO TV FHD
+http://103.226.232.196:8000/play/a018/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-name="Sindo News TV - [Channel 84].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sindo.jpg" group-title="INDONESIA", SINDONEWS Auto
 https://dev-galaxy-lifetime.pantheonsite.io/sindonews.mpd
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="INDONESIA", TVONE Auto
 https://dev-galaxy-lifetime.pantheonsite.io/tvone
 
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="INDONESIA", TVONE FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/tvone27
+https://dev-galaxy-lifetime.pantheonsite.io/tvone27
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="INDONESIA", TVONE HD
@@ -251,7 +255,7 @@ https://lilirplay.my.id/indihome/index.m3u8?id=indosiar
 #EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/gtv.jpg" group-title="INDONESIA 2", GTV Auto
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd|http-referrer=https://www.rctiplus.com/
 
-#EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mentari.jpg" group-title="INDONESIA 2", MENTARI TV Auto
+#EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mentari.jpg" group-title="INDONESIA 2", MENTARI TV FHD
 http://103.226.232.196:8000/play/a007/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -262,7 +266,7 @@ https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|http-referrer=https://www.rctiplus.co
 #EXTINF: -1 tvg-name="RTV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rtv.jpg" group-title="INDONESIA 2", RTV Auto
 https://lilirplay.my.id/indihome/index.m3u8?id=rtv
 
-#EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA 2", MOJI Auto
+#EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA 2", MOJI FHD
 http://103.226.232.196:8000/play/a022/index.m3u8
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
