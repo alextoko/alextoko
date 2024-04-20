@@ -6,6 +6,14 @@ https://lilirplay.my.id/indihome/index.m3u8?id=kidz
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://lilirplay.my.id/indihome/index.m3u8?id=nick
 
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DIqu2MDaLnOlvTYxecT9EVJXDR0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="FLIX TV - TV NASIONAL", Indosiar
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://lilirplay.my.id/indihome/index.m3u8?id=warnertv
+
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DIqu2MDaLnOlvTYxecT9EVJXDR0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="FLIX TV - TV NASIONAL", Indosiar
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://lilirplay.my.id/indihome/index.m3u8?id=aniplus
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
