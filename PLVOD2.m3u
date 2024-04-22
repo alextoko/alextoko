@@ -15,7 +15,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-g
 #https://dev-galaxy-lifetime.pantheonsite.io/antv-fhd
 
 #EXTINF: -1 tvg-name="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="INDONESIA", ANTV FHD
-https://dev-galaxy-lifetime.pantheonsite.io/antv27
+#https://dev-galaxy-lifetime.pantheonsite.io/antv27
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,7 +32,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd|http-referrer=https://d
 #https://dev-galaxy-lifetime.pantheonsite.io/indosiar-fhd
 
 #EXTINF: -1 tvg-name="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="INDONESIA", INDOSIAR FHD
-https://dev-galaxy-lifetime.pantheonsite.io/indosiar27
+#https://dev-galaxy-lifetime.pantheonsite.io/indosiar27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -45,7 +45,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/gtv.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/gtv-fhd
 
 #EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/gtv.jpg" group-title="INDONESIA", GTV FHD
-https://dev-galaxy-lifetime.pantheonsite.io/gtv27
+#https://dev-galaxy-lifetime.pantheonsite.io/gtv27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -58,7 +58,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/mentaritv.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/mentaritv-fhd
 
 #EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mentari.jpg" group-title="INDONESIA", MENTARI TV FHD
-https://dev-galaxy-lifetime.pantheonsite.io/mentari27
+#https://dev-galaxy-lifetime.pantheonsite.io/mentari27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -71,7 +71,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/mnctv.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/mnctv-fhd
 
 #EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mnctv.jpg" group-title="INDONESIA", MNCTV FHD
-https://dev-galaxy-lifetime.pantheonsite.io/mnctv27
+#https://dev-galaxy-lifetime.pantheonsite.io/mnctv27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -84,7 +84,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/rtv-fhd
 
 #EXTINF: -1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="INDONESIA", VTV FHD
-https://dev-galaxy-lifetime.pantheonsite.io/vtv
+#https://dev-galaxy-lifetime.pantheonsite.io/vtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -97,7 +97,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/moji.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
 
 #EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA", MOJI FHD
-https://dev-galaxy-lifetime.pantheonsite.io/moji27
+#https://dev-galaxy-lifetime.pantheonsite.io/moji27
 
 #EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="INDONESIA", NET TV SD
 #https://dev-galaxy-lifetime.pantheonsite.io/net
@@ -123,7 +123,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/rcti.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/rcti-fhd
 
 #EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rcti.jpg" group-title="INDONESIA", RCTI FHD
-https://dev-galaxy-lifetime.pantheonsite.io/rcti27
+#https://dev-galaxy-lifetime.pantheonsite.io/rcti27
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -140,7 +140,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-g
 #https://dev-galaxy-lifetime.pantheonsite.io/sctv-fhd
 
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="INDONESIA", SCTV FHD
-https://dev-galaxy-lifetime.pantheonsite.io/sctv27
+#https://dev-galaxy-lifetime.pantheonsite.io/sctv27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -153,7 +153,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev
 #https://dev-galaxy-lifetime.pantheonsite.io/trans7-fhd
 
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="INDONESIA", TRANS 7 FHD
-https://dev-galaxy-lifetime.pantheonsite.io/trtrans727
+#https://dev-galaxy-lifetime.pantheonsite.io/trtrans727
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -166,7 +166,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://de
 #https://dev-galaxy-lifetime.pantheonsite.io/transtv-fhd
 
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="INDONESIA", TRANS TV FHD
-https://dev-galaxy-lifetime.pantheonsite.io/transtv27
+#https://dev-galaxy-lifetime.pantheonsite.io/transtv27
 
 #EXTINF: -1 tvg-id="CNN Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnn.jpg" group-title="INDONESIA", CNN Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cnn
@@ -186,7 +186,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/inews.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/inews-fhd
 
 #EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/inews.jpg" group-title="INDONESIA", INEWS FHD
-https://dev-galaxy-lifetime.pantheonsite.io/inews27
+#https://dev-galaxy-lifetime.pantheonsite.io/inews27
 
 #EXTINF: -1 tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/kompas.jpg" group-title="INDONESIA", KOMPAS TV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/kompastv.mpd
@@ -205,7 +205,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/metroglobe
 https://dev-galaxy-lifetime.pantheonsite.io/metrotv
 
 #EXTINF: -1 tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/metrotv.jpg" group-title="INDONESIA", METRO TV FHD
-http://103.226.232.196:8000/play/a018/index.m3u8
+#http://103.226.232.196:8000/play/a018/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -218,7 +218,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/sindonews.mpd
 https://dev-galaxy-lifetime.pantheonsite.io/tvone
 
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="INDONESIA", TVONE FHD
-https://dev-galaxy-lifetime.pantheonsite.io/tvone27
+#https://dev-galaxy-lifetime.pantheonsite.io/tvone27
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="INDONESIA", TVONE HD
@@ -256,7 +256,7 @@ https://lilirplay.my.id/indihome/index.m3u8?id=indosiar
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd|http-referrer=https://www.rctiplus.com/
 
 #EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mentari.jpg" group-title="INDONESIA 2", MENTARI TV FHD
-http://103.226.232.196:8000/play/a007/index.m3u8
+#http://103.226.232.196:8000/play/a007/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/mnctv.jpg" group-title="INDONESIA 2", MNCTV Auto
@@ -267,7 +267,7 @@ https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|http-referrer=https://www.rctiplus.co
 https://lilirplay.my.id/indihome/index.m3u8?id=rtv
 
 #EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA 2", MOJI FHD
-http://103.226.232.196:8000/play/a022/index.m3u8
+#http://103.226.232.196:8000/play/a022/index.m3u8
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="INDONESIA 2", NET TV Auto
@@ -452,6 +452,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="HBO", HBO Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="HBO", HBO Auto 2
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="HBO", HBO HD
 #https://dev-galaxy-lifetime.pantheonsite.io/hbo-fhd
@@ -463,6 +470,14 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-ga
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="HBO", HBO HITS Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="HBO", HBO HITS Auto 2
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="HBO", HBO HITS HD
@@ -476,6 +491,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://de
 #EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="HBO", HBO FAMILY Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="HBO", HBO FAMILY Auto 2
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="HBO", HBO FAMILY HD
 #https://dev-galaxy-lifetime.pantheonsite.io/hbofamily-fhd
@@ -487,6 +509,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="HBO", HBO SIGNATURE Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="HBO", HBO SIGNATURE Auto 2
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="HBO", HBO SIGNATURE HD
@@ -520,11 +549,11 @@ https://dev-galaxy-lifetime.pantheonsite.io/redbulltv
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="Sky Sport MotoGP" tvg-logo="https://www.digital-news.it/files-admin/Simone/2020/08/1597166536-skysportmotogp.jpg" group-title="SPORTS ID", SKY SPORT MOTOGP FHD
-https://dev-galaxy-lifetime.pantheonsite.io/skysportmotogp
+#https://dev-galaxy-lifetime.pantheonsite.io/skysportmotogp
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="Sky Sports F1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/2e/Sky_Sports_FGP_ID_2012.png" group-title="SPORTS ID", SKY SPORT F1 FHD
-https://dev-galaxy-lifetime.pantheonsite.io/skysportf1
+#https://dev-galaxy-lifetime.pantheonsite.io/skysportf1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -559,7 +588,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/realmadridtv
 https://dev-galaxy-lifetime.pantheonsite.io/animax.mpd
 
 #EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="ANAK-ANAK",ANIPLUS FHD
-https://dev-galaxy-lifetime.pantheonsite.io/aniplus-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/aniplus-fhd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -589,7 +618,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/funplanet
 https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 #EXTINF: -1 tvg-logo="https://hometv.pw/logo/kids/horee.png" group-title="ANAK-ANAK", HOREE SD
-https://dev-galaxy-lifetime.pantheonsite.io/horee
+#https://dev-galaxy-lifetime.pantheonsite.io/horee
 
 #EXTINF: -1 tvg-name="My Kidz - [Channel 50].id" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="ANAK-ANAK", MY KIDZ FHD
 https://dev-galaxy-lifetime.pantheonsite.io/mykidz-fhd
@@ -688,85 +717,30 @@ https://dev-galaxy-lifetime.pantheonsite.io/impactwrestling
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="163" tvg-id="AstroSuperSport.my" tvg-name="Astro Supersport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 1 FHD
-https://dev-galaxy-lifetime.pantheonsite.io/assp1-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/assp1-fhd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="164" tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 2 FHD
-https://dev-galaxy-lifetime.pantheonsite.io/assp2-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/assp2-fhd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="165" tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 3 FHD
-https://dev-galaxy-lifetime.pantheonsite.io/assp3-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/assp3-fhd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="166" tvg-id="AstroSuperSport4.my" tvg-name="Astro Supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 4 FHD
-https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
-
-#EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 ID Auto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6299&type=drm 
-#https://srtv.my.id/vd/play.mpd?id=6299&type=dash
+#https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 ID FHD
-https://dev-galaxy-lifetime.pantheonsite.io/beinsports1id-fhd
-
-#EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="BEIN SPORTS", BEIN SPORTS 3 ID Auto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6317&type=drm 
-#https://srtv.my.id/vd/play.mpd?id=6317&type=dash
+#https://dev-galaxy-lifetime.pantheonsite.io/beinsports1id-fhd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="BEIN SPORTS", BEIN SPORTS 3 ID FHD
-https://dev-galaxy-lifetime.pantheonsite.io/beinsports3id-fhd
+#https://dev-galaxy-lifetime.pantheonsite.io/beinsports3id-fhd
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="CHAMPIONS TV",Champions TV 1 Auto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm
-#https://srtv.my.id/vd/play.mpd?id=6685&type=dash
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="CHAMPIONS TV",Champions TV 2 Auto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
-#https://srtv.my.id/vd/play.mpd?id=6686&type=dash
-
-#EXTINF:-1 group-title="CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5 Auto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm 
-#https://srtv.my.id/vd/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 group-title="CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6 Auto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
-#https://srtv.my.id/vd/play.mpd?id=9183&type=dash
-
-#EXTINF:-1 group-title="CHAMPIONS TV" tvg-logo="https://thumbor.prod.vidiocdn.com/oA7FNQrjU1piI0FPz2z0bye5XjQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Premier League Auto
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
-#https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-id="Sportstars - [Channel 102].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="MNC SPORTS", SPORTSTAR 1 Auto
-https://dev-galaxy-lifetime.pantheonsite.io/sportstar1.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
