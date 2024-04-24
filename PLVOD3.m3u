@@ -19,7 +19,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-g
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="INDONESIA", INDOSIAR Auto
 https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 #https://lilirplay.my.id/indihome/index.m3u8?id=indosiar
@@ -127,7 +127,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/rcti.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="INDONESIA", SCTV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 #https://lilirplay.my.id/indihome/index.m3u8?id=sctv
@@ -143,7 +143,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-g
 #https://dev-galaxy-lifetime.pantheonsite.io/sctv27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="INDONESIA", TRANS 7 Auto
 https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 #https://dev-galaxy-lifetime.pantheonsite.io/trans7
@@ -156,7 +156,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev
 #https://dev-galaxy-lifetime.pantheonsite.io/trtrans727
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="INDONESIA", TRANS TV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 #https://dev-galaxy-lifetime.pantheonsite.io/transtv
@@ -448,7 +448,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="HBO", HBO Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -467,7 +467,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #https://dev-galaxy-lifetime.pantheonsite.io/hbo27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="HBO", HBO HITS Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -487,7 +487,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #https://dev-galaxy-lifetime.pantheonsite.io/hbohits27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="HBO", HBO FAMILY Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -506,7 +506,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #https://dev-galaxy-lifetime.pantheonsite.io/hbofamily27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="HBO", HBO SIGNATURE Auto
 https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -525,7 +525,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #https://dev-galaxy-lifetime.pantheonsite.io/hbosign27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="HBO",CINEMAX Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cinemax.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -591,12 +591,12 @@ https://dev-galaxy-lifetime.pantheonsite.io/animax.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/aniplus-fhd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://d2lv662meabn0u.cloudfront.net/cartoonito/dynamic/editorial/00000000/195/0b7a3f43-d94c-4a36-9a35-0a3d94d311fa_1676051890.jpg" group-title="ANAK-ANAK",CARTOONITO Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cnito.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="ANAK-ANAK",CARTOON NETWORK Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cn.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
