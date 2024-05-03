@@ -5,8 +5,6 @@
 #EXTINF:-1 tvg-name="FLIK" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/flik.jpg" group-title="MOVIES INDO",FLIK t
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://telegra.ph/file/0144d624be5777633b5f2.png" group-title="CHANEL TV INDONESIA",Net TV (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
