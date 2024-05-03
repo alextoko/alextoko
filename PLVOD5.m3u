@@ -3,6 +3,9 @@
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="INDONESIA", ANTV
 https://dev-galaxy-lifetime.pantheonsite.io/antv
 
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="INDONESIA", ANTV
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
@@ -275,6 +278,11 @@ https://dev-galaxy-lifetime.pantheonsite.io/indonesianantv-fhd
 #EXTINF: -1 tvg-id="CNBC - [Channel 337].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="INDONESIA", CNBC Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cnbc
 
+#EXTINF: -1 tvg-id="CNBC - [Channel 337].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="INDONESIA", CNBC Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-id="CNBC Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnbclogo" group-title="INDONESIA", CNBC HD
 #https://dev-galaxy-lifetime.pantheonsite.io/cnbc27
@@ -282,6 +290,16 @@ https://dev-galaxy-lifetime.pantheonsite.io/cnbc
 #EXTINF: -1 tvg-id="DAAI TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/daai.jpg" group-title="INDONESIA", DAAI TV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/daaitv
 
+#EXTINF: -1 tvg-id="DAAI TV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/daai.jpg" group-title="INDONESIA", DAAI TV Auto
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
+https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES INDO"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF: -1 tvg-name="Citra Drama" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cdrama.jpg" group-title="MOVIES INDO", CITRA DRAMA Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cdrama.mpd
@@ -298,6 +316,11 @@ https://dev-galaxy-lifetime.pantheonsite.io/flik.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-id="IMC - [Channel 14].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/imc.jpg" group-title="MOVIES INDO", IMC Auto
 https://dev-galaxy-lifetime.pantheonsite.io/imc.mpd
+
+#EXTINF: -1 tvg-id="IMC - [Channel 14].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/imc.jpg" group-title="MOVIES INDO", IMC Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/digione.jpg" group-title="MOVIES INDO", MAXSTREAM Auto
 https://dev-galaxy-lifetime.pantheonsite.io/maxstream.mpd
@@ -331,11 +354,21 @@ https://dev-galaxy-lifetime.pantheonsite.io/magnatv
 #EXTINF: -1 tvg-name="AXN HD - [Channel 438].id" tvg-logo="https://s1.dmcdn.net/v/OgX3U1RhObGDn0yfb/x1080" group-title="MOVIES LUAR", AXN Auto
 https://dev-galaxy-lifetime.pantheonsite.io/axn.mpd
 
+#EXTINF:-1 group-title="MOVIES LUAR"  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIES Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="MOVIES LUAR",CINEMA WORLD
+#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="MOVIES LUAR",CINEMA WORLD Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cinemaworld.mpd
+
+#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="MOVIES LUAR",CINEMA WORLD Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -343,11 +376,21 @@ https://dev-galaxy-lifetime.pantheonsite.io/cinemaworld.mpd
 #EXTINF: -1 tvg-name="Galaxy - [Channel 13].id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/dfpvasn-7b4343d9-ad9d-48f5-b50e-2a680e3f9ad7.png/v1/fill/w_1280,h_720,q_80,strp/galaxy_channel___ident__2021___3__by_unitedworldmedia_dfpvasn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIxY2VlZTUtOTQ1OC00NDM0LTgwYmMtZmM1ZDgzYTJlYTg4XC9kZnB2YXNuLTdiNDM0M2Q5LWFkOWQtNDhmNS1iNTBlLTJhNjgwZTNmOWFkNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.78y9sPBIQs_KplgTGjraNoJLyZryFJxGPXrbkES0Fsw" group-title="MOVIES LUAR", GALAXY  Auto
 https://dev-galaxy-lifetime.pantheonsite.io/galaxy.mpd
 
+#EXTINF: -1 tvg-name="Galaxy - [Channel 13].id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/dfpvasn-7b4343d9-ad9d-48f5-b50e-2a680e3f9ad7.png/v1/fill/w_1280,h_720,q_80,strp/galaxy_channel___ident__2021___3__by_unitedworldmedia_dfpvasn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIxY2VlZTUtOTQ1OC00NDM0LTgwYmMtZmM1ZDgzYTJlYTg4XC9kZnB2YXNuLTdiNDM0M2Q5LWFkOWQtNDhmNS1iNTBlLTJhNjgwZTNmOWFkNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.78y9sPBIQs_KplgTGjraNoJLyZryFJxGPXrbkES0Fsw" group-title="MOVIES LUAR", GALAXY  Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-name="Galaxy Premium - [Channel 12].id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/dfpvasn-7b4343d9-ad9d-48f5-b50e-2a680e3f9ad7.png/v1/fill/w_1280,h_720,q_80,strp/galaxy_channel___ident__2021___3__by_unitedworldmedia_dfpvasn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIxY2VlZTUtOTQ1OC00NDM0LTgwYmMtZmM1ZDgzYTJlYTg4XC9kZnB2YXNuLTdiNDM0M2Q5LWFkOWQtNDhmNS1iNTBlLTJhNjgwZTNmOWFkNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.78y9sPBIQs_KplgTGjraNoJLyZryFJxGPXrbkES0Fsw" group-title="MOVIES LUAR", GALAXY PREMIUM Auto
 https://dev-galaxy-lifetime.pantheonsite.io/galaxyprem.mpd
+
+#EXTINF: -1 tvg-name="Galaxy Premium - [Channel 12].id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/dfpvasn-7b4343d9-ad9d-48f5-b50e-2a680e3f9ad7.png/v1/fill/w_1280,h_720,q_80,strp/galaxy_channel___ident__2021___3__by_unitedworldmedia_dfpvasn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIxY2VlZTUtOTQ1OC00NDM0LTgwYmMtZmM1ZDgzYTJlYTg4XC9kZnB2YXNuLTdiNDM0M2Q5LWFkOWQtNDhmNS1iNTBlLTJhNjgwZTNmOWFkNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.78y9sPBIQs_KplgTGjraNoJLyZryFJxGPXrbkES0Fsw" group-title="MOVIES LUAR", GALAXY PREMIUM Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -549,6 +592,9 @@ https://dev-galaxy-lifetime.pantheonsite.io/cnito.mpd|http-referrer=https://dev-
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="ANAK-ANAK",CARTOON NETWORK Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cn.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="ANAK-ANAK",CARTOON NETWORK Auto
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="ANAK-ANAK",CARTOON NETWORK FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/cartoonnet-fhd
 
@@ -557,8 +603,12 @@ https://dev-galaxy-lifetime.pantheonsite.io/cn.mpd|http-referrer=https://dev-gal
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-name="Dreamworks - [Channel 47].id" tvg-logo="https://www.dictio.id/uploads/db3342/original/3X/5/9/5937d1d138de1b4dd8fb1cc02765d85c7f8d87da.jpg" group-title="ANAK-ANAK", DREAMWORKS Auto
 https://dev-galaxy-lifetime.pantheonsite.io/dreamwork.mpd
+
 #EXTINF: -1 tvg-id="IndiKids.id" tvg-logo="https://bumntrack.co.id/wp-content/uploads/2021/07/20210723_165941-1024x569.jpg" group-title="ANAK-ANAK", FUN PLANET Auto
 https://dev-galaxy-lifetime.pantheonsite.io/funplanet
+
+#EXTINF: -1 tvg-id="IndiKids.id" tvg-logo="https://bumntrack.co.id/wp-content/uploads/2021/07/20210723_165941-1024x569.jpg" group-title="ANAK-ANAK", FUN PLANET Auto
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -587,6 +637,11 @@ https://dev-galaxy-lifetime.pantheonsite.io/nickelodeon.mpd
 #EXTINF: -1 tvg-name="Nickelodeon - [Channel 49].id" tvg-logo="https://static-prod.adweek.com/wp-content/uploads/2023/05/nick-splat-652x342.jpeg" group-title="ANAK-ANAK", NICKELODEON FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/nickelodeon-fhd
 
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -611,11 +666,21 @@ https://dev-galaxy-lifetime.pantheonsite.io/sonygem.mpd
 #EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="KOREA", TVN MOVIES Auto
 https://dev-galaxy-lifetime.pantheonsite.io/tvnmovies.mpd
 
+#EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="KOREA", TVN MOVIES Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-id="tvN HD - [Channel 446].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="KOREA", TVN PREMIUM Auto
 https://dev-galaxy-lifetime.pantheonsite.io/tvnprem.mpd
+
+#EXTINF: -1 tvg-id="tvN HD - [Channel 446].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="KOREA", TVN PREMIUM Auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 
 #EXTINF:-1 tvg-name="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/animalplanet.jpg" group-title="PENGETAHUAN",ANIMAL PLANET Auto
 https://dev-galaxy-lifetime.pantheonsite.io/animalplanet
@@ -628,6 +693,11 @@ https://dev-galaxy-lifetime.pantheonsite.io/bbcearth.mpd
 
 #EXTINF: -1 tvg-id="BiznetAdventure.id" tvg-logo="https://www.biznetnetworks.com/assets/logo-1576123657.jpg" group-title="PENGETAHUAN", BISNET ADVENTURE HD
 https://dev-galaxy-lifetime.pantheonsite.io/biznetadv
+
+#EXTINF:-1 group-title="PENGETAHUAN"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -666,24 +736,33 @@ https://dev-galaxy-lifetime.pantheonsite.io/impactwrestling
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="163" tvg-id="AstroSuperSport.my" tvg-name="Astro Supersport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 1 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp1-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/assp1-fhd
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="164" tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 2 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp2-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/assp2-fhd
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="165" tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 3 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp3-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/assp3-fhd
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 xui-id="166" tvg-id="AstroSuperSport4.my" tvg-name="Astro Supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS",Astro Supersport 4 FHD
-#https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
+https://dev-galaxy-lifetime.pantheonsite.io/assp4-fhd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 ID FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/beinsports1id-fhd
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="BEIN SPORTS", BEIN SPORTS 3 ID FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/beinsports3id-fhd
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
