@@ -12,6 +12,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="[INDIHOME]"  tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png",TV ONE
 https://cdn11jtedge.indihometv.com/atm/HLS-10s/tvone/tvone.mpd
 
