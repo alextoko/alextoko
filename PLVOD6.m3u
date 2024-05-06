@@ -107,8 +107,8 @@ https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
 https://dev-galaxy-lifetime.pantheonsite.io/moji.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA", MOJI HD
-#https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
+#EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA", MOJI Pro Liga
+https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
 
 #EXTINF: -1 tvg-id="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="INDONESIA", MOJI FHD
 #https://dev-galaxy-lifetime.pantheonsite.io/moji27
