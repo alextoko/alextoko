@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=https://dev-galaxy-lifetime.pantheonsite.io/epg.xml
 
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="INDONESIA", ANTV
-https://dev-galaxy-lifetime.pantheonsite.io/antv
+#https://dev-galaxy-lifetime.pantheonsite.io/antv
 
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="INDONESIA", ANTV
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
@@ -21,7 +21,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-g
 #https://dev-galaxy-lifetime.pantheonsite.io/antv27
 
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="INDONESIA", INDOSIAR
-https://dev-galaxy-lifetime.pantheonsite.io/indosiar
+#https://dev-galaxy-lifetime.pantheonsite.io/indosiar
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -91,7 +91,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-name="RTV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rtv.jpg" group-title="INDONESIA", RTV Auto
-https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
+#https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF: -1 tvg-name="RTV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rtv.jpg" group-title="INDONESIA", RTV HD
@@ -114,7 +114,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/moji-fhd
 #https://dev-galaxy-lifetime.pantheonsite.io/moji27
 
 #EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/net.jpg" group-title="INDONESIA", NET TV
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -144,7 +144,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/rcti.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/rcti27
 
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="INDONESIA", SCTV
-https://dev-galaxy-lifetime.pantheonsite.io/sctv
+#https://dev-galaxy-lifetime.pantheonsite.io/sctv
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
