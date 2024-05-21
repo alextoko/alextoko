@@ -1,13 +1,23 @@
 #EXTM3U url-tvg=https://iptv.mydil.my.id/epg.xml.gz
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="UTAMA", ANTV HD
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="UTAMA", ANTV HD L
 https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="UTAMA", INDOSIAR HD
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="UTAMA", ANTV HD C
+https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="UTAMA", INDOSIAR HD L
+https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="UTAMA", INDOSIAR HD C
 https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -26,6 +36,10 @@ https://dev-galaxy-lifetime.pantheonsite.io/mnctv.mpd|http-referrer=https://visi
 #EXTINF: -1 tvg-name="RTV" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/rtv.jpg" group-title="UTAMA", RTV HD
 https://dev-galaxy-lifetime.pantheonsite.io/rtv.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF: -1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="UTAMA", VTV HD
+https://dev-galaxy-lifetime.pantheonsite.io/vtv
+
 #EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/moji.jpg" group-title="UTAMA", MOJI HD
 https://dev-galaxy-lifetime.pantheonsite.io/moji.mpd
 
@@ -38,23 +52,43 @@ https://dev-galaxy-lifetime.pantheonsite.io/nettv.mpd
 https://dev-galaxy-lifetime.pantheonsite.io/rcti.mpd|http-referrer=https://visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="UTAMA", SCTV HD
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="UTAMA", SCTV HD L
 https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="UTAMA", TRANS 7 HD
+#EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="UTAMA", SCTV HD C
+https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="UTAMA", TRANS 7 HD L
 https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="UTAMA", TRANS TV HD
+#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="UTAMA", TRANS 7 HD C
+https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="UTAMA", TRANS TV HD L
 https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="UTAMA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg",BTV HD
+#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="UTAMA", TRANS TV HD C
+https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="UTAMA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg",BTV HD L 
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68572841ba301729c80f0d63bfc/manifest.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="UTAMA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg",BTV HD C 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68572841ba301729c80f0d63bfc/manifest.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTINF: -1 tvg-id="CNN Indonesia" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cnn.jpg" group-title="UTAMA", CNN HD
@@ -80,8 +114,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/metrotv
 https://dev-galaxy-lifetime.pantheonsite.io/sindonews.mpd|http-referrer=https://visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="UTAMA", TVONE HD L
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6df9359238f/manifest.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="UTAMA", TVONE HD
+#EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="UTAMA", TVONE HD C
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6df9359238f/manifest.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTINF: -1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvri.jpg" group-title="UTAMA", TVRI NASIONAL HD
@@ -112,7 +151,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="INDONESIA", ANTV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 #https://lilirplay.my.id/indihome/index.m3u8?id=antv
@@ -129,7 +168,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/indosiar
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/indosiar.jpg" group-title="INDONESIA", INDOSIAR Auto
 https://dev-galaxy-lifetime.pantheonsite.io/indosiar.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 #https://lilirplay.my.id/indihome/index.m3u8?id=indosiar
@@ -243,7 +282,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/sctv
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/sctv.jpg" group-title="INDONESIA", SCTV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 #https://lilirplay.my.id/indihome/index.m3u8?id=sctv
@@ -256,12 +295,12 @@ https://dev-galaxy-lifetime.pantheonsite.io/sctv.mpd|http-referrer=https://dev-g
 #https://dev-galaxy-lifetime.pantheonsite.io/sctv27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="INDONESIA", TRANS 7
 https://dev-galaxy-lifetime.pantheonsite.io/trans7
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/trans7.jpg" group-title="INDONESIA", TRANS 7 Auto
 https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -273,12 +312,12 @@ https://dev-galaxy-lifetime.pantheonsite.io/trans7.mpd|http-referrer=https://dev
 #https://dev-galaxy-lifetime.pantheonsite.io/trtrans727
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="INDONESIA", TRANS TV
 https://dev-galaxy-lifetime.pantheonsite.io/transtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/transtv.jpg" group-title="INDONESIA", TRANS TV Auto
 https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -290,7 +329,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/transtv.mpd|http-referrer=https://de
 #https://dev-galaxy-lifetime.pantheonsite.io/transtv27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="INDONESIA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg",BTV Auto
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68572841ba301729c80f0d63bfc/manifest.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -348,7 +387,7 @@ https://dev-galaxy-lifetime.pantheonsite.io/sindonews.mpd
 https://dev-galaxy-lifetime.pantheonsite.io/tvone
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-name="tvOne - [Channel 97].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/tvone.jpg" group-title="INDONESIA", TVONE Auto
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6df9359238f/manifest.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
@@ -562,8 +601,13 @@ https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemac
 https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="HBO", HBO Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="HBO", HBO HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -574,8 +618,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-ga
 #https://dev-galaxy-lifetime.pantheonsite.io/hbo27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="HBO", HBO HITS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="HBO", HBO HITS HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -586,8 +635,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://de
 #https://dev-galaxy-lifetime.pantheonsite.io/hbohits27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="HBO", HBO FAMILY Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="HBO", HBO FAMILY HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -598,8 +652,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev
 #https://dev-galaxy-lifetime.pantheonsite.io/hbofamily27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="HBO", HBO SIGNATURE Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="HBO", HBO SIGNATURE HD
 https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -610,8 +669,13 @@ https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://de
 #https://dev-galaxy-lifetime.pantheonsite.io/hbosign27
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="HBO",CINEMAX Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cinemax.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="HBO",CINEMAX HD
 https://dev-galaxy-lifetime.pantheonsite.io/cinemax.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -677,9 +741,19 @@ https://dev-galaxy-lifetime.pantheonsite.io/animax.mpd
 #https://dev-galaxy-lifetime.pantheonsite.io/aniplus-fhd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://d2lv662meabn0u.cloudfront.net/cartoonito/dynamic/editorial/00000000/195/0b7a3f43-d94c-4a36-9a35-0a3d94d311fa_1676051890.jpg" group-title="ANAK-ANAK",CARTOONITO Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cnito.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://d2lv662meabn0u.cloudfront.net/cartoonito/dynamic/editorial/00000000/195/0b7a3f43-d94c-4a36-9a35-0a3d94d311fa_1676051890.jpg" group-title="ANAK-ANAK",CARTOONITO Auto
 https://dev-galaxy-lifetime.pantheonsite.io/cnito.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="ANAK-ANAK",CARTOON NETWORK Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cn.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
@@ -899,8 +973,14 @@ https://dev-galaxy-lifetime.pantheonsite.io/
 #EXTINF: -1 tvg-id="" tvg-logo="" group-title="=====VOD=====", Bisa Request VOD
 https://dev-galaxy-lifetime.pantheonsite.io/
 
+########################################################################################GALAXY VOD#####################################################################################
+
 #EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg.webp" group-title="GALAXY VOD", Wrath of Man (2021)
 https://www.dropbox.com/scl/fi/ns03moa226d2tno619bg1/D21.FUN-Wrath-of-Man-2021-1080p.mp4?rlkey=8t9e0l1lp33d3hgxrk22yhzsw&raw=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqy31VS6QIi1AGMUVeY-mrcVynEQhEJ2WlVnzvR-thaC2cDQ3u" group-title="GALAXY VOD", xXx: Return of Xander Cage (2017)
+https://www.dropbox.com/scl/fi/ksseeol0o6hjxrlg8w0on/D21.FUN-xXx-Return-of-Xander-Cage-2017-1080p.mp4?rlkey=pdmv1dx583fkfpliqpn2iqreq&st=r2p3uu49&raw=1
+
 #EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-unthinkable-2010.jpg.webp" group-title="GALAXY VOD", Unthinkable (2010)
 https://www.dropbox.com/scl/fi/aky0tvk5x0d5rg5skhv0r/D21.FUN-Unthinkable-2010-720p.mp4?rlkey=ctfs3q2nb9edtb6t5l72ke4mx&raw=1
 
@@ -939,3 +1019,14 @@ https://www.dropbox.com/scl/fi/hdszebh10p03lvgc5emws/D21.FUN-Godzilla-vs.-Kong-2
 https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-2024-1080p.mp4?rlkey=kh57gfr1xpkocv5td9i88oz8n&raw=1
 #EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-the-roundup-no-way-out-2023-lk21-d21.jpg.webp" group-title="VOD KOREA", The Roundup: No Way Out (2023)
 https://www.dropbox.com/scl/fi/bemyvuf3w25iff6es5r6v/D21.FUN-The-Roundup-No-Way-Out-2023-1080p.mp4?rlkey=mc4vr2wv8cic9hj3dsuql5k2t&raw=1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="Z", ANTV HD CUBUM
+https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/antv.jpg" group-title="Z", ANTV HD LIC
+https://dev-galaxy-lifetime.pantheonsite.io/antv.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
