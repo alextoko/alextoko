@@ -13,8 +13,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=204&type=dash
-https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
