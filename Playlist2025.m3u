@@ -12,9 +12,10 @@ https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="INDONESIA", INDOSIAR HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be52f87b58f2/ffb50ac11f9f42758882f58ff62273be.png" group-title="INDONESIA", GTV HD
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|http-referrer=https://visionplus.id
 
@@ -23,8 +24,10 @@ https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index
 #EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/j_gKn4FRYReHoUYdcRr9Ey7vXF8=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="INDONESIA", MENTARI TV HD
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF: -1 tvg-name="MNCTV HD - [Channel 432].id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5ef52a5904/441b76dc2d004adda2945df43736dd02.png" group-title="INDONESIA", MNCTV HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|http-referrer=https://visionplus.id
 
@@ -47,8 +50,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF: -1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://thumbor.prod.vidiocdn.com/8e17JOiM1YvVuiaOIFG763kivUc=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="INDONESIA", NET TV FHD
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF: -1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI HD" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="INDONESIA", RCTI HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|http-referrer=https://visionplus.id
 
@@ -420,33 +425,9 @@ https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8
 #EXTINF: -1 tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="PENGETAHUAN", OUTDOOR Auto
 https://av-ch-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTINF: -1 tvg-id="Sportstars - [Channel 102].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTSTAR", SPORTSTAR 1 Auto
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTSTAR", SPORTSTAR 2 Auto
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTSTAR", SPORTSTAR 3 Auto
-https://av-ch-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd 
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTINF:-1 group-title="SPORTSTAR" tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg",SPORTSTAR 4 Auto
-http://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF: -1 tvg-id="Sportstars - [Channel 102].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTSTAR", SPORTSTAR 1 HD
+#EXTINF: -1 tvg-id="Sportstars - [Channel 102].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="MNC SPORTS", SPORTSTAR 1 HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
@@ -456,7 +437,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF: -1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTSTAR", SPORTSTAR 2 HD
+#EXTINF: -1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="MNC SPORTS", SPORTSTAR 2 HD
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
@@ -464,7 +445,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF: -1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="SPORTSTAR", SPORTSTAR 3 HD
+#EXTINF: -1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg" group-title="MNC SPORTS", SPORTSTAR 3 HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
@@ -472,14 +453,14 @@ https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 group-title="SPORTSTAR" tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg",SPORTSTAR 4 HD
+#EXTINF:-1 group-title="MNC SPORTS" tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/07/jadwal-program-sportstar.jpg",SPORTSTAR 4 HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF: -1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ytimg.com/vi/N4yiDnhtltA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSD8576eYH0hL1hBfATckWuLtfsQ" group-title="SPORTS ID", SOCCER CHANNEL HD
+#EXTINF: -1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ytimg.com/vi/N4yiDnhtltA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSD8576eYH0hL1hBfATckWuLtfsQ" group-title="MNC SPORTS", SOCCER CHANNEL HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
@@ -539,6 +520,7 @@ https://www.dropbox.com/scl/fi/hdszebh10p03lvgc5emws/D21.FUN-Godzilla-vs.-Kong-2
 https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-2024-1080p.mp4?rlkey=kh57gfr1xpkocv5td9i88oz8n&raw=1
 #EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-the-roundup-no-way-out-2023-lk21-d21.jpg.webp" group-title="VOD KOREA", The Roundup: No Way Out (2023)
 https://www.dropbox.com/scl/fi/bemyvuf3w25iff6es5r6v/D21.FUN-The-Roundup-No-Way-Out-2023-1080p.mp4?rlkey=mc4vr2wv8cic9hj3dsuql5k2t&raw=1
+
 
 
 
