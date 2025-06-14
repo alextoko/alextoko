@@ -273,11 +273,11 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF: -1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ytimg.com/vi/N4yiDnhtltA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSD8576eYH0hL1hBfATckWuLtfsQ" group-title="MNC SPORTS", SOCCER CHANNEL HD
+#EXTINF: -1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ytimg.com/vi/N4yiDnhtltA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSD8576eYH0hL1hBfATckWuLtfsQ" group-title="SPORTS", SOCCER CHANNEL HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF: -1 tvg-id="RedBullTV.at" tvg-logo="https://i.pinimg.com/736x/a3/11/69/a31169eb5a44bc912f5318d09b017f5c--logo-free-logo-s.jpg" group-title="SPORTS ID", RED BULL TV Auto
+#EXTINF: -1 tvg-id="RedBullTV.at" tvg-logo="https://i.pinimg.com/736x/a3/11/69/a31169eb5a44bc912f5318d09b017f5c--logo-free-logo-s.jpg" group-title="SPORTS", RED BULL TV Auto
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -293,11 +293,14 @@ https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd|Referer=https:
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 #EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-logo="https://www.shutterstock.com/image-illustration/logo-childrens-television-bright-colored-260nw-1173311566.jpg" group-title="ANAK-ANAK",Kids TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-logo="https://www.shutterstock.com/image-illustration/logo-childrens-television-bright-colored-260nw-1173311566.jpg" group-title="ANAK-ANAK",Kids TV
 https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF: -1 tvg-name="My Kidz - [Channel 50].id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="ANAK-ANAK", MY KIDZ FHD
-https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
@@ -305,6 +308,9 @@ https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 #EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="FILM", TVN MOVIES Auto
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
+
+#EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="# VIDIO/FILM #", TVN 
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 ######################################################################################## INDO DRAMA ##############################################################################
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c4/Gara_-_Gara_Warisan.jpeg/220px-Gara_-_Gara_Warisan.jpeg" group-title="INDO DRAMA", Gara-Gara Warisan (2022)
