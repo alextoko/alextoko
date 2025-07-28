@@ -370,6 +370,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 ######################################################################################## INDO DRAMA ##############################################################################
+#EXTINF: -1 tvg-logo="" group-title="INDO DRAMA", 
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWY9j6aVUKu5XBgrcWMZP_QpJZt5NpB55m4g&s" group-title="INDO DRAMA", A Business Proposal (2025)
+https://www.dropbox.com/scl/fi/eazotei8zo9cf0uisji2k/a-busines-proposal.mp4?rlkey=l3sdrdt3r17gkwf5df948ecz6&st=2vwvihfa&raw=1
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/51/Poster_Pantaskah_Aku_Berhijab_%282024%29.jpg/250px-Poster_Pantaskah_Aku_Berhijab_%282024%29.jpg" group-title="INDO DRAMA", Pantaskah Aku Berhijab (2024)
+https://www.dropbox.com/scl/fi/h1ztx60hk38g29kh81vbl/pantaskah-aku-berhijab.mp4?rlkey=5ekgxz2hxn0fmsy4cp0jaui2a&st=rzu81qct&raw=1
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6f/Poster_2nd_Miracle_in_Cell_No.7.jpg/250px-Poster_2nd_Miracle_in_Cell_No.7.jpg" group-title="INDO DRAMA", 2nd Miracle in Cell No. 7 (2024)
 https://www.dropbox.com/scl/fi/rgcgnx4ak6e03s7x6gxt8/miracle-2.mp4?rlkey=ka5qe8trnxcyargvfmo6pyfum&st=wcpbh77f&raw=1
