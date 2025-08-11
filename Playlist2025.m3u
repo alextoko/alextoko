@@ -373,7 +373,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #EXTINF: -1 tvg-logo="" group-title="INDO DRAMA", 
 
 
-#EXTINF: -1 tvg-logo="" group-title="INDO DRAMA", Modal Nekad (2024)
+#EXTINF: -1 tvg-logo="https://klasika.kompas.id/wp-content/uploads/2024/12/poster-modal-nekad.jpeg" group-title="INDO DRAMA", Modal Nekad (2024)
 https://www.dropbox.com/scl/fi/wle55b4uy2vpum3xkem8g/modal-nekat.mp4?rlkey=6oa8r4vfyakvlr7ift2e5dupb&st=agqsx6cg&raw=1
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Poster_Terbaru_Kupu_Kupu_Kertas.jpg/250px-Poster_Terbaru_Kupu_Kupu_Kertas.jpg" group-title="INDO DRAMA", Kupu-Kupu Kertas (2024)
