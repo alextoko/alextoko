@@ -373,12 +373,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 #EXTINF: -1 tvg-logo="" group-title="INDO ACTION",
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/de/Poster-serigala-terakhir.jpg" group-title="INDO ACTION",Serigala Terakhir (2009)
+http://www.googleapis.com/drive/v3/files/1XJquJ9OpvmgMqk0Ymv9KK2c9-YIW_dIC?alt=media&key=AIzaSyCXFJpVVgYLah3XZ-pKDI_gqtcHC9a9HyA
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/Poster_PDBD.jpg/250px-Poster_PDBD.jpg" group-title="INDO ACTION",Pengepungan di Bukit Duri (2025)
 https://www.dropbox.com/scl/fi/pfzh3n8seh7jipasz03g8/pengepungan-dibukit-duri.mp4?rlkey=nuuvi6qgm09e5bvfqhc9va7hf&st=w4cqk9vf&raw=1
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4d/Pertaruhan.jpg/250px-Pertaruhan.jpg" group-title="INDO ACTION",Pertaruhan (2017)
+https://www.dropbox.com/scl/fi/dvpbli67nb9735rv21uoh/Salinan-NGEFILM21.Pertaruhan.2017.NF.WEB-DL.1080p.mp4?rlkey=gv3pfhrn4vi720burfcqryp7q&st=v6iux0ac&raw=1
 
 ######################################################################################## INDO DRAMA ##############################################################################
 
 #EXTINF: -1 tvg-logo="" group-title="INDO DRAMA", 
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6b/Susah_Sinyal_the_Series_poster.jpeg" group-title="INDO DRAMA", Susah Sinyal (2017)
+https://www.dropbox.com/scl/fi/k90g4ijy6ctm0pm4h49n0/Salinan-NGEFILM21.Susah.Sinyal.2017.NF.WEB-DL.1080p.mp4?rlkey=x6apxqqe67sk2qf1qk0mznthd&st=mnd7ocw2&raw=1
+
+#EXTINF: -1 tvg-logo="https://filmindonesia.or.id/f/img/movie/poster/gilalundro-poster.jpg" group-title="INDO DRAMA", Gila Lu Ndro! (2018)
+https://www.dropbox.com/scl/fi/9p2z0fsummvyezzks5sv4/Salinan-NGEFILM21.Gila.Lu.Ndro.2018.WEB-DL.1080p.mp4?rlkey=5bezz31t9abhbt0s2t54mlams&st=jmxlydrf&raw=1
 
 #EXTINF: -1 tvg-logo="https://klasika.kompas.id/wp-content/uploads/2024/12/poster-modal-nekad.jpeg" group-title="INDO DRAMA", Modal Nekad (2024)
 https://www.dropbox.com/scl/fi/wle55b4uy2vpum3xkem8g/modal-nekat.mp4?rlkey=6oa8r4vfyakvlr7ift2e5dupb&st=agqsx6cg&raw=1
@@ -422,6 +434,9 @@ https://www.dropbox.com/scl/fi/0ld47h39amc8j4xtvtun6/Orang-Kaya-Baru-2019-WEBDL-
 ######################################################################################## INDO HOROR ##############################################################################
 
 #EXTINF: -1 tvg-logo="" group-title="INDO HOROR", 
+
+#EXTINF: -1 tvg-logo="" group-title="INDO HOROR", 
+https://www.dropbox.com/scl/fi/nxf277h4aiigs833hu8sc/pabrik-gula.mp4?rlkey=i6ve2pyuak7uie0jq6yww3g24&st=2iv06xgj&raw=1
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fe/Poster_RDB.jpg/250px-Poster_RDB.jpg" group-title="INDO HOROR", Rumah Dinas Bapak (2024)
 https://www.dropbox.com/scl/fi/v1anfw2pfmepoqcmyjk4r/rumah-dinas-bapak.mp4?rlkey=knqfona7w9z6cjtnjxyn5za3n&st=vbdnbn0p&raw=1
