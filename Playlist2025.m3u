@@ -12,7 +12,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="INDONESIA", Indosiar HD
-https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#https://cdngb196.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -41,7 +41,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF: -1 tvg-name="Rajawali TV" tvg-logo="https://thumbor.prod.vidiocdn.com/bF5bW5EQYoZyJCIeXv-4s3cTBRQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-263fdf.jpg" group-title="INDONESIA", RTV HD
-https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -52,7 +52,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF: -1 tvg-id="IndiKids" tvg-logo="https://bumntrack.co.id/wp-content/uploads/2021/07/20210723_165941-1024x569.jpg" group-title="INDONESIA", Fun Planet HD
-https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd|Referer=https://www.indihometv.com
+#https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd|Referer=https://www.indihometv.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
@@ -96,7 +96,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDONESIA", SCTV HD
-https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+#https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -107,7 +107,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 HD
-https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
+#https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
@@ -369,9 +369,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="# VIDIO/FILM #", TVN 
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
-######################################################################################## INDO DRAMA ##############################################################################
-#EXTINF: -1 tvg-logo="" group-title="INDO DRAMA", 
+######################################################################################## INDO ACTION #############################################################################
 
+#EXTINF: -1 tvg-logo="" group-title="INDO ACTION",
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0d/Poster_PDBD.jpg/250px-Poster_PDBD.jpg" group-title="INDO ACTION",Pengepungan di Bukit Duri (2025)
+https://www.dropbox.com/scl/fi/pfzh3n8seh7jipasz03g8/pengepungan-dibukit-duri.mp4?rlkey=nuuvi6qgm09e5bvfqhc9va7hf&st=w4cqk9vf&raw=1
+
+######################################################################################## INDO DRAMA ##############################################################################
+
+#EXTINF: -1 tvg-logo="" group-title="INDO DRAMA", 
 
 #EXTINF: -1 tvg-logo="https://klasika.kompas.id/wp-content/uploads/2024/12/poster-modal-nekad.jpeg" group-title="INDO DRAMA", Modal Nekad (2024)
 https://www.dropbox.com/scl/fi/wle55b4uy2vpum3xkem8g/modal-nekat.mp4?rlkey=6oa8r4vfyakvlr7ift2e5dupb&st=agqsx6cg&raw=1
@@ -412,13 +419,12 @@ https://www.dropbox.com/scl/fi/ofcei5hiaecczy794osnv/Layarxxi-pw-Gara-Gara-Waris
 #EXTINF: -1 tvg-logo="https://lpminvest.com/wp-content/uploads/2024/02/poster-orang-kaya-baru.jpg" group-title="INDO DRAMA", Orang Kaya Baru (2019)
 https://www.dropbox.com/scl/fi/0ld47h39amc8j4xtvtun6/Orang-Kaya-Baru-2019-WEBDL-720p-mkv-mp4.mp4?rlkey=ts0o57jts2nwyjjyn3hd883dd&st=009ms5u0&raw=1
 
-######################################################################################## INDO HOROR #################################################################################
+######################################################################################## INDO HOROR ##############################################################################
 
 #EXTINF: -1 tvg-logo="" group-title="INDO HOROR", 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fe/Poster_RDB.jpg/250px-Poster_RDB.jpg" group-title="INDO HOROR", Rumah Dinas Bapak (2024)
 https://www.dropbox.com/scl/fi/v1anfw2pfmepoqcmyjk4r/rumah-dinas-bapak.mp4?rlkey=knqfona7w9z6cjtnjxyn5za3n&st=vbdnbn0p&raw=1
-
 
 ######################################################################################## NETFLIX #################################################################################
 
@@ -430,7 +436,6 @@ https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-202
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Society_of_the_Snow_poster.jpg" group-title="NETFLIX", Society of the Snow (2023)
 https://www.dropbox.com/scl/fi/2jecdwc9nrgnetpvq1j1h/D21.FUN-Society-of-the-Snow-2023-1080p.mp4?rlkey=gph3i8obwu2o9sopfwcsvhjli&raw=1
-
 
 ######################################################################################## GALAXY VOD ##############################################################################
 
@@ -474,6 +479,8 @@ https://www.dropbox.com/scl/fi/ih3oka2a9fh9prz19uabe/D21.FUN-Migration-2023-1080
 
 #EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2021/03/film-raya-and-the-last-dragon-2021-lk21.jpg.webp" group-title="ANIMASI", Raya and the Last Dragon (2021)
 https://www.dropbox.com/scl/fi/olehu6co4ku5orrq80hhl/D21.FUN-Raya-and-the-Last-Dragon-2021-1080p.mp4?rlkey=bvuf95qiv0cslqie7uqt302xj&raw=1
+
+################################################################################# GODZILLA ########################################################################################
 
 #EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-godzilla-2014.jpg.webp" group-title="GODZILLA", Godzilla (2014)
 https://www.dropbox.com/scl/fi/b8cv84cyyql0xtdrq5ghi/D21.FUN-Godzilla-2014-1080p.mp4?rlkey=592qhbyn7owvrvb5rhlldhv3y&raw=1
