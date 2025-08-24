@@ -258,7 +258,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd|user-agen
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=17139&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=17139&type=dash
+#https://skyblue.openwindow043.workers.dev/play.mpd?id=17139&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -277,7 +277,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|user-ag
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=17140&type=drm 
-https://skyblue.openwindow043.workers.dev/play.mpd?id=17140&type=dash
+#https://skyblue.openwindow043.workers.dev/play.mpd?id=17140&type=dash
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -434,9 +434,6 @@ https://www.dropbox.com/scl/fi/0ld47h39amc8j4xtvtun6/Orang-Kaya-Baru-2019-WEBDL-
 ######################################################################################## INDO HOROR ##############################################################################
 
 #EXTINF: -1 tvg-logo="" group-title="INDO HOROR", 
-
-#EXTINF: -1 tvg-logo="" group-title="INDO HOROR", 
-https://www.dropbox.com/scl/fi/nxf277h4aiigs833hu8sc/pabrik-gula.mp4?rlkey=i6ve2pyuak7uie0jq6yww3g24&st=2iv06xgj&raw=1
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fe/Poster_RDB.jpg/250px-Poster_RDB.jpg" group-title="INDO HOROR", Rumah Dinas Bapak (2024)
 https://www.dropbox.com/scl/fi/v1anfw2pfmepoqcmyjk4r/rumah-dinas-bapak.mp4?rlkey=knqfona7w9z6cjtnjxyn5za3n&st=vbdnbn0p&raw=1
