@@ -111,7 +111,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 HD
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
