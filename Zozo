@@ -654,3 +654,27 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 #EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://hometv.pw/logo/movies/cinema_world.png" group-title="MOVIES",CINEMA WORLD (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Tempest Season 1 (2025)
+https://www.dropbox.com
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 1
+https://www.googleapis.com/drive/v3/files/1veLnUtS-7ajHT40o9lzRTLpfsaI9j6am?alt=media&key=AIzaSyDof9sGnyU78URg3goslvdiH8APjRlfMsw
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 2
+https://www.googleapis.com/drive/v3/files/1nT--IemibMvK7gQUih_USDOLcHEwspnh?alt=media&key=AIzaSyCFdGztjVOi-NXUmvny8GV7BnPSW2VKYaM
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 3
+https://www.googleapis.com/drive/v3/files/1pK_RYVJbC6qg_X1LMKEdvfuLVHjV8sec?alt=media&key=AIzaSyAJOJ_l9gXl6IwhiG_K8Mkl88wyinjPqFk
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 4
+https://www.googleapis.com/drive/v3/files/1953u4GGpHmCZ3Z9amM_OJfuEg7_0GEdt?alt=media&key=AIzaSyBt-lzu8MLjwX4g-Ut8Wdo2aQmqNOwGB4Q
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 5
+https://www.googleapis.com/drive/v3/files/1Eh90oJjHwMu_51hwBGOv8aAwqKKtndzY?alt=media&key=AIzaSyAEvLFwNU8zgRYOKzliCITX77YtSmZCvxA
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 6
+https://www.googleapis.com/drive/v3/files/1FFzJHlvMqQbW3RZ3GUDVruXoAgDjLMoV?alt=media&key=AIzaSyD5bXVKGAAxAvldsV60ofepKUsQMFkizmk
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 7
+https://www.googleapis.com/drive/v3/files/1H1sEPrwcjZJ-V9Y3bzIFD0FHFnS5KSCp?alt=media&key=AIzaSyC02nik3G0_lRmJ1PDWDN6pSk_8S6bVPq4
+
