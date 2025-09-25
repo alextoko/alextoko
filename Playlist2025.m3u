@@ -1,14 +1,33 @@
 #EXTM3U url-tvg=https://www.open-epg.com/files/indonesia4.xml
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="INDONESIA", TVN MOVIES Auto
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
+#EXTINF: -1 tvg-id="IMC - [Channel 14].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn67Qsl5CaOiqKwFq5i1zR_DUufeWC0VwqNA&s" group-title="INDONESIA", IMC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg",MAXSTREAM FHD
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://thumbor.prod.vidiocdn.com/Qqh7ii2xCSGiR-9D7b79PdvxC4Q=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="INDONESIA", ANTV HD
-http://103.179.182.117:6768/hls/45/45.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+#http://103.179.182.117:6768/hls/45/45.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="INDONESIA", Indosiar HD
-#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-http://103.179.182.117:6768/hls/56/56.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#http://103.179.182.117:6768/hls/56/56.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -17,11 +36,11 @@ http://103.179.182.117:6768/hls/56/56.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDONESIA", SCTV HD
-#https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-http://103.179.182.117:6768/hls/55/55.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+#http://103.179.182.117:6768/hls/55/55.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -30,11 +49,11 @@ http://103.179.182.117:6768/hls/55/55.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 HD
-#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-http://103.179.182.117:6768/hls/42/42.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#http://103.179.182.117:6768/hls/42/42.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
@@ -43,10 +62,10 @@ http://103.179.182.117:6768/hls/42/42.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh4itFlGTxLJemrJnsMQR0ITl18=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg" group-title="INDONESIA", Trans TV HD
-http://103.179.182.117:6768/hls/43/43.m3u8
+#http://103.179.182.117:6768/hls/43/43.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh4itFlGTxLJemrJnsMQR0ITl18=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg" group-title="INDONESIA", Trans TV HD
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
@@ -76,7 +95,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/12/inews-tv-stream.jpg" group-title="INDONESIA", Inews HD
+#EXTINF: -1 tvg-id="iNews HD - [Channel 433].id" tvg-name="INEWS HD" tvg-logo="https://thumbor.prod.vidiocdn.com/KUK1lSaly60_BeGnQ0O_u0R4mTc=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/17064461/inews_tv-81c3ee.jpg" group-title="INDONESIA", Inews HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -91,16 +110,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=li
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0MYPu13tEdYGCeGdKCQGgjUFqgw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" group-title="INDONESIA",Horee HD
-http://103.179.182.117:6768/hls/4/4.m3u8
+#http://103.179.182.117:6768/hls/4/4.m3u8
 
 #EXTINF: -1 tvg-name="Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/j_gKn4FRYReHoUYdcRr9Ey7vXF8=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="INDONESIA", Mentari TV HD
-http://103.179.182.117:6768/hls/48/48.m3u8
+#http://103.179.182.117:6768/hls/48/48.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="INDONESIA",Kids TV HD
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e9/SeriesTitle-SpongeBob.png/revision/latest?cb=20230506123818" group-title="INDONESIA",Kids TV HD
 https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -109,10 +129,11 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 
 #EXTINF: -1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="INDONESIA", VTV HD
-http://103.179.182.117:6768/hls/47/47.m3u8
+#http://103.179.182.117:6768/hls/47/47.m3u8
 
 #EXTINF: -1 tvg-name="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", Moji HD
-http://103.179.182.117:6768/hls/50/50.m3u8
+#http://103.179.182.117:6768/hls/50/50.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -121,7 +142,7 @@ http://103.179.182.117:6768/hls/50/50.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF: -1 tvg-id="MDTV - [Channel 116].id" tvg-logo="https://thumbor.prod.vidiocdn.com/A3cX3Y75Tw_hzVbrA7vqrzjl-gs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-049626.jpg" group-title="INDONESIA", MDTV HD
-http://103.179.182.117:6768/hls/44/44.m3u8
+#http://103.179.182.117:6768/hls/44/44.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -138,13 +159,13 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF: -1 tvg-name="Kompas TV - [Channel 106].id" tvg-logo="https://thumbor.prod.vidiocdn.com/c-DZ8xpjN9sqsBq7Tk42Ee_Jjm0=/1280x720/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-396453.jpg" group-title="INDONESIA", Kompas TV HD
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF: -1 tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="INDONESIA", Metro TV HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
@@ -165,13 +186,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="BiznetAdventure.id" tvg-logo="https://www.biznetnetworks.com/custom-upload/brand-center/biznet_iptv_logo_full_colors.jpg" group-title="INDONESIA", Biznet Adventure HD
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF: -1 tvg-id="IMC - [Channel 14].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn67Qsl5CaOiqKwFq5i1zR_DUufeWC0VwqNA&s" group-title="INDONESIA", IMC HD
-https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF: -1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://thumbor.prod.vidiocdn.com/YttfqrMZ_ar70XQI57hivHy3ecY=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA", TVRI Word HD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -204,8 +218,7 @@ http://103.179.182.117:6768/hls/30/30.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://cms.cignal.tv/Upload/Images/CinemaWorld-Updated-Logo-2022.jpg" group-title="FILM", CINEMA WORLD Auto
-#https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
-http://103.179.182.117:6768/hls/67/67.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
@@ -220,12 +233,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF: -1 tvg-name="Galaxy Premium - [Channel 12].id" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b1ceee5-9458-4434-80bc-fc5d83a2ea88/dfpvasn-7b4343d9-ad9d-48f5-b50e-2a680e3f9ad7.png/v1/fill/w_1280,h_720,q_80,strp/galaxy_channel___ident__2021___3__by_unitedworldmedia_dfpvasn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGIxY2VlZTUtOTQ1OC00NDM0LTgwYmMtZmM1ZDgzYTJlYTg4XC9kZnB2YXNuLTdiNDM0M2Q5LWFkOWQtNDhmNS1iNTBlLTJhNjgwZTNmOWFkNy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.78y9sPBIQs_KplgTGjraNoJLyZryFJxGPXrbkES0Fsw" group-title="FILM", GALAXY PREMIUM Auto
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF: -1 tvg-name="tvN Movies HD - [Channel 415].id" tvg-logo="https://thumbor.prod.vidiocdn.com/MZC9CQ9v4iaDwgeiUr2f6h64Ttw=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="FILM", TVN MOVIES Auto
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
@@ -338,8 +345,6 @@ http://103.179.182.117:6768/hls/94/94.m3u8
 
 ######################################################################################## INDO ACTION #############################################################################
 
-#EXTINF: -1 tvg-logo="" group-title="INDO ACTION",
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/de/Poster-serigala-terakhir.jpg" group-title="INDO ACTION",Serigala Terakhir (2009)
 https://www.googleapis.com/drive/v3/files/1XJquJ9OpvmgMqk0Ymv9KK2c9-YIW_dIC?alt=media&key=AIzaSyCXFJpVVgYLah3XZ-pKDI_gqtcHC9a9HyA
 
@@ -350,8 +355,6 @@ https://www.dropbox.com/scl/fi/pfzh3n8seh7jipasz03g8/pengepungan-dibukit-duri.mp
 https://www.dropbox.com/scl/fi/dvpbli67nb9735rv21uoh/Salinan-NGEFILM21.Pertaruhan.2017.NF.WEB-DL.1080p.mp4?rlkey=gv3pfhrn4vi720burfcqryp7q&st=v6iux0ac&raw=1
 
 ######################################################################################## INDO DRAMA ##############################################################################
-
-#EXTINF: -1 tvg-logo="" group-title="INDO DRAMA", 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6b/Susah_Sinyal_the_Series_poster.jpeg" group-title="INDO DRAMA", Susah Sinyal (2017)
 https://www.dropbox.com/scl/fi/k90g4ijy6ctm0pm4h49n0/Salinan-NGEFILM21.Susah.Sinyal.2017.NF.WEB-DL.1080p.mp4?rlkey=x6apxqqe67sk2qf1qk0mznthd&st=mnd7ocw2&raw=1
@@ -400,10 +403,43 @@ https://www.dropbox.com/scl/fi/0ld47h39amc8j4xtvtun6/Orang-Kaya-Baru-2019-WEBDL-
 
 ######################################################################################## INDO HOROR ##############################################################################
 
-#EXTINF: -1 tvg-logo="" group-title="INDO HOROR", 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fe/Poster_RDB.jpg/250px-Poster_RDB.jpg" group-title="INDO HOROR", Rumah Dinas Bapak (2024)
 https://www.dropbox.com/scl/fi/v1anfw2pfmepoqcmyjk4r/rumah-dinas-bapak.mp4?rlkey=knqfona7w9z6cjtnjxyn5za3n&st=vbdnbn0p&raw=1
+
+######################################################################################## MOVIE KOREA #################################################################################
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d5/Badland_Hunters_film_poster.jpg/250px-Badland_Hunters_film_poster.jpg" group-title="MOVIE KOREA", Badland Hunters (2024)
+https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-2024-1080p.mp4?rlkey=kh57gfr1xpkocv5td9i88oz8n&raw=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE97h1eFzed7wUbF5I9yxOGO1kYg9RaQVEpXUdVe38xwtDtaYZ" group-title="MOVIE KOREA", The Witch: Part 1. The Subversion (2018)
+https://www.googleapis.com/drive/v3/files/12sFsXEy78aqShfS6tS3VJcoWrY-GHwJR?alt=media&key=AIzaSyAKv-zV-k6oKFBBI1xm1WCxyd8pbJxVmlw
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7e/The_Witch_Part_2._The_Other_One.jpg" group-title="MOVIE KOREA", The Witch: Part 2. The Other One (2022)
+https://www.googleapis.com/drive/v3/files/17CyaUMqD-7ItNLTBPob2xQDbv6-DNw7X?alt=media&key=AIzaSyCpKRDQxUlHVcqqQlyZgBHewspD84PkoUs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ######################################################################################## ZOMBIE KR #################################################################################
 
@@ -438,9 +474,6 @@ https://www.googleapis.com/drive/v3/files/1c9ky-etkDeext5iibOQIzrjpKR74cwvd?alt=
 
 #EXTINF: -1 tvg-logo="https://wikisinetron.com/app/uploads/2024/03/Poster-Lift-350x520.jpg" group-title="NETFLIX", Lift (2024)
 https://www.dropbox.com/scl/fi/y3gsnyp96qifj74i0mcn9/D21.FUN-Lift-2024-1080p.mp4?rlkey=b1dbqvs5r2gvtb4uz493l104c&raw=1
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d5/Badland_Hunters_film_poster.jpg/250px-Badland_Hunters_film_poster.jpg" group-title="NETFLIX", Badland Hunters (2024)
-https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-2024-1080p.mp4?rlkey=kh57gfr1xpkocv5td9i88oz8n&raw=1
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Society_of_the_Snow_poster.jpg" group-title="NETFLIX", Society of the Snow (2023)
 https://www.dropbox.com/scl/fi/2jecdwc9nrgnetpvq1j1h/D21.FUN-Society-of-the-Snow-2023-1080p.mp4?rlkey=gph3i8obwu2o9sopfwcsvhjli&raw=1
@@ -502,7 +535,123 @@ https://www.dropbox.com/scl/fi/hdszebh10p03lvgc5emws/D21.FUN-Godzilla-vs.-Kong-2
 ######################################################################################## SERIES KOREA ##############################################################################
 
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/GENFt-G23fEQYGlsyq3k34GlYOEU3-KEgUWCFR1AA6DDSXp1DxYHli16RodaYHGPU36C" group-title="||| SERIES KOREA |||", SERIES KOREA
-https://www.dropbox.com/scl/fi/hdszebh10p03lvgc5emws/D21.FUN-Godzilla-vs.-Kong-2021-1080p.mp4?rlkey=jr3pvv4klxrmk16kvayzyuu
+https://www.dropbox.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######################################################################################## TEMPEST ##############################################################################
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Tempest Season 1 (2025)
+https://www.dropbox.com
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 1
+https://www.googleapis.com/drive/v3/files/1veLnUtS-7ajHT40o9lzRTLpfsaI9j6am?alt=media&key=AIzaSyDof9sGnyU78URg3goslvdiH8APjRlfMsw
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 2
+https://www.googleapis.com/drive/v3/files/1nT--IemibMvK7gQUih_USDOLcHEwspnh?alt=media&key=AIzaSyCFdGztjVOi-NXUmvny8GV7BnPSW2VKYaM
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 3
+https://www.googleapis.com/drive/v3/files/1pK_RYVJbC6qg_X1LMKEdvfuLVHjV8sec?alt=media&key=AIzaSyAJOJ_l9gXl6IwhiG_K8Mkl88wyinjPqFk
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 4
+https://www.googleapis.com/drive/v3/files/1953u4GGpHmCZ3Z9amM_OJfuEg7_0GEdt?alt=media&key=AIzaSyBt-lzu8MLjwX4g-Ut8Wdo2aQmqNOwGB4Q
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 5
+https://www.googleapis.com/drive/v3/files/1Eh90oJjHwMu_51hwBGOv8aAwqKKtndzY?alt=media&key=AIzaSyAEvLFwNU8zgRYOKzliCITX77YtSmZCvxA
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 6
+https://www.googleapis.com/drive/v3/files/1FFzJHlvMqQbW3RZ3GUDVruXoAgDjLMoV?alt=media&key=AIzaSyD5bXVKGAAxAvldsV60ofepKUsQMFkizmk
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 7
+https://www.googleapis.com/drive/v3/files/1H1sEPrwcjZJ-V9Y3bzIFD0FHFnS5KSCp?alt=media&key=AIzaSyC02nik3G0_lRmJ1PDWDN6pSk_8S6bVPq4
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 8
+#
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cd/Tempest_%28seri_televisi%29_poster.png" group-title="TEMPEST", Episode 9
+#
+
+######################################################################################## BIG BET ##############################################################################
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Big Bet Season 1 (2022)
+https://www.dropbox.com
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 1
+https://www.googleapis.com/drive/v3/files/1N8zmNjkeTxGnnlF4GcJ8TJnf2iHVReTj?alt=media&key=AIzaSyDSX__GAt6ojL_wjyBvbsLy62Zkzt4aEY0
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 2
+https://www.googleapis.com/drive/v3/files/1vKhKu1ZnnRdb0hkhRcFpdxVj1zHPb3IV?alt=media&key=AIzaSyAuq7TGZaUmtF_kKFCFl8e3qrqVlDnFgMM
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 3
+https://www.googleapis.com/drive/v3/files/1NueaKK5Pq9uk3DXa9odzu-0KAiHZStYe?alt=media&key=AIzaSyDj8bqq_YOYqX98JyBfzwpo6WggbNrwLw4
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 4
+https://www.googleapis.com/drive/v3/files/1Fwrv_euh1nRbeHaxbDXBBaA-U9QajctN?alt=media&key=AIzaSyAccrkJJiNSUhI8cTEw5DyaZqrqIGtwloE
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 5
+https://www.googleapis.com/drive/v3/files/1xvuyHZM23sbfz_TOdg1aLAzR7cGGv06G?alt=media&key=AIzaSyCQ3kbQbaoj3zU2P4IonJ07PhGNvs3EQ48
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 6
+https://www.googleapis.com/drive/v3/files/1GRfQdh-DWaIMW5-scAcfv1x3UpIx_SdK?alt=media&key=AIzaSyATInb14rCYhjm7GEjHrzwRyZ-UwGAQTBw
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 7
+https://www.googleapis.com/drive/v3/files/1jr3Ry0x574YBA-2ry-wxp__Qs1jHMC1R?alt=media&key=AIzaSyBTY5No6s16aZ_yR9YDtKQ9sCfIRYw4Kko
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 8
+https://www.googleapis.com/drive/v3/files/1RFCs_eWiqy5EvUYWDe-SYKSgfHa_aaX8?alt=media&key=AIzaSyACY--xRHX3DpTNQROgijxuCLdSjlcSJc0
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Big Bet Season 2 (2023)
+https://www.dropbox.com
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 1
+https://www.googleapis.com/drive/v3/files/1wCi4aqjxuwhGKSo3shCPKWg7gQ6quBm6?alt=media&key=AIzaSyDjyIcB7h84d9n30s0KTuKZlWJDu5W7RPM
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 2
+https://www.googleapis.com/drive/v3/files/1_CWtUWxPhPPFDXw4pw1smRU5g7jFfgfw?alt=media&key=AIzaSyAKzIuR5Ib3MPoWrAxTCzmDoBlyunaKGig
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 3
+https://www.googleapis.com/drive/v3/files/1x_vP79IlJn_O4y57I17fYVKI4Wi5tjKS?alt=media&key=AIzaSyBkhj4N1cE4HjrF_KA8lWHj5cTWuUfJqb4
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 4
+https://www.googleapis.com/drive/v3/files/1GYex0R53FWulAP1VZ9cdEV75cpJpq6vl?alt=media&key=AIzaSyDV-B0Hrz13AcegnnMUFzk-bizrotiyNk4
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 5
+https://www.googleapis.com/drive/v3/files/1nSf1QBUC5xeRy75z4DhDtG3khStXtq1c?alt=media&key=AIzaSyA5MtpRjm0ceyYy9qk21Ov4IEaDa9P0dNs
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 6
+https://www.googleapis.com/drive/v3/files/1oeMDoqX4QikB9iZrKFF6AxhXHQSuXKRB?alt=media&key=AIzaSyAuuvR6X0ThXWdegQ9r15CHMymNQFOKXMc
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 7
+https://www.googleapis.com/drive/v3/files/1_RbATforkQvx0SLlfCrHf9hR3c32iLF7?alt=media&key=AIzaSyAJsseV95StkwINIYU6AwDxPS6EmEJvkAQ
+
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U4NjJmNjItNTBhOS00YTRlLTllZWMtMDkwNTg1MjA2MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="BIG BET", Episode 8
+https://www.googleapis.com/drive/v3/files/1_JVAjUUkfpaSql-RAT8S8zcBX2DTRq0M?alt=media&key=AIzaSyB40nTwQC_4nIawC5oX8xj5pcg-8BeUvn4
 
 ######################################################################################## SQUID GAME ##############################################################################
 
@@ -717,7 +866,7 @@ https://www.googleapis.com/drive/v3/files/14lKMbejP0tbIjRjHV2q6VQ-rpRINLCkZ?alt=
 https://www.googleapis.com/drive/v3/files/1t4tqG0iEB8CVDUFS1DOGy_KTCOpcjUAx?alt=media&key=AIzaSyDtnZiBdmjtJBj_He_QHxhc-RPWp_BirjA
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Vigilante_%28TV_series%29.jpg" group-title="VIGILANTE", S1 EP5 (2023)
-https://www.googleapis.com/drive/v3/files/1HsWl8ghq_T9_WdpWaogcxY70RtvwoHkx?alt=media&key=AIzaSyB5v9znqBvB_u0agiQV49heWiyE8U5qAKQ
+#https://www.googleapis.com/drive/v3/files/1HsWl8ghq_T9_WdpWaogcxY70RtvwoHkx?alt=media&key=AIzaSyB5v9znqBvB_u0agiQV49heWiyE8U5qAKQ
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Vigilante_%28TV_series%29.jpg" group-title="VIGILANTE", S1 EP6 (2023)
 https://www.googleapis.com/drive/v3/files/1VoB4AfTxTUD8q2Lqz6HTrfxI5AIi_4SY?alt=media&key=AIzaSyAizFSI_6aYS1VgM9CQe514_90mC6sfPsw
@@ -728,8 +877,59 @@ https://www.googleapis.com/drive/v3/files/102RRO205UZTCDKxuTy4wDnHx-wi7ztdG?alt=
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Vigilante_%28TV_series%29.jpg" group-title="VIGILANTE", S1 EP8 (2023)
 https://www.googleapis.com/drive/v3/files/128eBOi018YpPCf0ltzNZGDfLE6Hn52hY?alt=media&key=AIzaSyD6LM3eogd2SI08nNXZ4f65OtzUvbdp568
 
+######################################################################################## SERIES BARAT ##############################################################################
+
+#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/GENFt-G23fEQYGlsyq3k34GlYOEU3-KEgUWCFR1AA6DDSXp1DxYHli16RodaYHGPU36C" group-title="||| SERIES BARAT |||", SERIES BARAT
+https://www.dropbox.com
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+######################################################################################## MONARCH ##############################################################################
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Monarch Season 1 (2023)
+https://www.dropbox.com
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 1
+https://www.googleapis.com/drive/v3/files/19ARBWtniLLt4UawQ1kzECYknGs2AZN77?alt=media&key=AIzaSyCTH4JdRlJmWCaUoI8wwC1q2E4Pfemm2QE
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 2
+https://www.googleapis.com/drive/v3/files/19fbODxHQqu7JpaBxMG_U1vsg523GH9TE?alt=media&key=AIzaSyByuhUHy2H6sgBCCmrWsVm79TAhqjQ6l6A
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 3
+https://www.googleapis.com/drive/v3/files/17JIcBSwvTbi2dgnorVO8spQHL5joV83T?alt=media&key=AIzaSyD9WEFVRWqmm4QoA2FzSk_mDomsYYprbko
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 4
+https://www.googleapis.com/drive/v3/files/1rb1BPhW6qS_atIo4rAxpE5Bq01YE7wjA?alt=media&key=AIzaSyA6Zwlj5BKGd-vI7oRj-ZXKPZCRFq4ZBRU
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 5
+https://www.googleapis.com/drive/v3/files/1f49X0LayRzUyaU_33-4GF8373H8wklFA?alt=media&key=AIzaSyBuoFMfzuECPHhKhsFGwklQeNWwhjU74uo
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 6
+https://www.googleapis.com/drive/v3/files/18tQZOH1Sruf1M_7dMGN8kmUdgDeugnXL?alt=media&key=AIzaSyDtcIqhqIUcMb4X09g9VmagCEh6vOFg40g
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 7
+https://www.googleapis.com/drive/v3/files/1Q6PLIpx9KN9GSQLiV5oKdK6uQjc7p1tR?alt=media&key=AIzaSyCJ-W8JXu4kQQ-IeO3IM2OqojIssbkoBHY
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 8
+https://www.googleapis.com/drive/v3/files/18zoEvE6Jsobo4CeOhXUvqBZeazBybR3w?alt=media&key=AIzaSyDnx4tDqYZ_gBjhbO4GFDcV9R9vQULHTqE
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 9
+https://www.googleapis.com/drive/v3/files/1uVdcgtcCNQIf5z8SlvFwySvQSxsu45NB?alt=media&key=AIzaSyB7FpFiSN0gCNTLtLN_vlZLpryOzARmy30
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Monarch_Legacy_of_Monsters_poster.jpg" group-title="MONARCH", Episode 10
+https://www.googleapis.com/drive/v3/files/16oV2pwf6hB62XtWCQN6GbDXBPcKeoSAW?alt=media&key=AIzaSyATgpqqYnRTcPyZxnZFl5gJgaPg9HSa_LQ
 
 
 
