@@ -5,13 +5,8 @@
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://thumbor.prod.vidiocdn.com/Qqh7ii2xCSGiR-9D7b79PdvxC4Q=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="INDONESIA", ANTV HD (I)
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://thumbor.prod.vidiocdn.com/Qqh7ii2xCSGiR-9D7b79PdvxC4Q=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="INDONESIA", Trans 7 test
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="INDONESIA", Indosiar HD (C)
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
@@ -21,14 +16,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e77
 #EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="INDONESIA", Indosiar FHD (I)
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF: -1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="INDONESIA", Indosiar FHD (F)
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mediampd/IndosiarHD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDONESIA", SCTV HD (C)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
@@ -45,47 +34,32 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
 
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 HD
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
+#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1057578191_b744100_sleng.m3u8
+
+#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 HD (C)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 FHD (I)
-https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF: -1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="TRANS 7 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/HIeoRrVnrzt6Jjq6aGRw7WTSBRI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="INDONESIA", Trans 7 FHD (F)
-https://atemecdnbalancer-voe.sysln.id/live/eds/Trans7HD/mediampd/Trans7HD.mpd
+#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh4itFlGTxLJemrJnsMQR0ITl18=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg" group-title="INDONESIA", Trans TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w450339440_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh4itFlGTxLJemrJnsMQR0ITl18=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg" group-title="INDONESIA", Trans TV HD (C)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh4itFlGTxLJemrJnsMQR0ITl18=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg" group-title="INDONESIA", Trans TV FHD (I)
-https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
-#EXTINF: -1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV HD" tvg-logo="https://thumbor.prod.vidiocdn.com/Gh4itFlGTxLJemrJnsMQR0ITl18=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-210a5f.jpg" group-title="INDONESIA", Trans TV FHD (F)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mediampd/TransTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF: -1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://thumbor.prod.vidiocdn.com/Xye0dwc1q7gsdu4aUfOywAouEYc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="INDONESIA", GTV HD
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|http-referrer=https://visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,7 +120,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 
 #EXTINF: -1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="INDONESIA", VTV HD
-#http://103.179.182.117:6768/hls/47/47.m3u8
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF: -1 tvg-name="MOJI" tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", Moji HD
 #http://103.179.182.117:6768/hls/50/50.m3u8
@@ -232,31 +206,31 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="FILM",CINEMAX HD
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="FILM", HBO HD
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="FILM", HBO HITS HD
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="FILM", HBO SIGNATURE HD
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="FILM", HBO FAMILY HD
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
@@ -295,7 +269,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF: -1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://thumbor.prod.vidiocdn.com/6uImdXl12WvYcWVSxosBqO07CeU=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" group-title="SPORTS", SPOTV FHD
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -308,7 +282,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF: -1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://thumbor.prod.vidiocdn.com/w6VQHnUHKW5qPaTygzmWFIr8Xik=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="SPORTS", SPOTV 2 FHD
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mediampd/SPOTV2HD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -411,19 +385,19 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstv.jpg" group-title="SPORTS",SPORTS TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/xtreamsports.jpg" group-title="SPORTS",XTREAM SPORTS
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew20.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew75.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/speedtv.jpg" group-title="SPORTS",SPEED TV
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
@@ -648,6 +622,35 @@ https://www.googleapis.com/drive/v3/files/1vIY5Z887tlpARjaJYZOmhocdquRIS2fh?alt=
 
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/GENFt-G23fEQYGlsyq3k34GlYOEU3-KEgUWCFR1AA6DDSXp1DxYHli16RodaYHGPU36C" group-title="||| SERIES KOREA |||", SERIES KOREA
 https://www.dropbox.com
+
+######################################################################################## THE MANIPULATED ##############################################################################
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", SEASON 1
+https://www.googleapis.com/drive/v3/files/1CLdEu2pcnwSc758XJAWmE3E1v6bDXGMT?alt=media&key=AIzaSyCrMpJAaKsEulIKqZ3-XsfJcZlo4w8J-Q8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP1
+https://www.googleapis.com/drive/v3/files/1CLdEu2pcnwSc758XJAWmE3E1v6bDXGMT?alt=media&key=AIzaSyCrMpJAaKsEulIKqZ3-XsfJcZlo4w8J-Q8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP2
+https://www.googleapis.com/drive/v3/files/1V5ENTEQT_SS7irdR_snYzqySb_9INwkJ?alt=media&key=AIzaSyB5oLB4gT-cY9kYUk_C0F60oOrNmFb6-5c
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP3
+https://www.googleapis.com/drive/v3/files/13WJtlbXzmPh0aj2QnvN7CEwKA8ehzvF5?alt=media&key=AIzaSyAduxc1XUbsM1MdoNkkIAt746nYXSbOgkE
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP4
+https://www.googleapis.com/drive/v3/files/1SvbuY9HxfyFlsURX6u8JGFG0SXvprg0D?alt=media&key=AIzaSyA-dbXSUPTmo84UEI11OiFteovtuBwSGdM
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP5
+https://www.googleapis.com/drive/v3/files/?alt=media&key=
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP6
+https://www.googleapis.com/drive/v3/files/?alt=media&key=
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP7
+https://www.googleapis.com/drive/v3/files/?alt=media&key=
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/The_Manipulated_poster.png" group-title="THE MANIPULATED", EP8
+https://www.googleapis.com/drive/v3/files/?alt=media&key=
 
 ######################################################################################## BIG BET ##############################################################################
 
