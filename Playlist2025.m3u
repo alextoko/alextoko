@@ -1,5 +1,10 @@
 #EXTM3U url-tvg=https://www.open-epg.com/files/indonesia4.xml
 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://thumbor.prod.vidiocdn.com/Qqh7ii2xCSGiR-9D7b79PdvxC4Q=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="INDONESIA", TSN
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?8p
+
+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF: -1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://thumbor.prod.vidiocdn.com/Qqh7ii2xCSGiR-9D7b79PdvxC4Q=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="INDONESIA", ANTV HD (I)
