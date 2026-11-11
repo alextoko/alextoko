@@ -199,6 +199,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 ######################################################################################## INDO DRAMA ##############################################################################
 
+#EXTINF: -1 tvg-logo="https://thumb.wikimedia.org/wikipedia/id/thumb/3/32/Buya_Hamka_Vol_01_%282023%29.jpeg/500px-Buya_Hamka_Vol_01_%282023%29.jpeg" group-title="INDO DRAMA", Buya Hamka Vol. 1 (2023)
+https://www.dropbox.com/scl/fi/ktcos7ibbx8kawaqwlpf4/Buya.Hamka.Vol.1.2023.mp4?rlkey=bjh2m22mba7twy8emvl4425sq&st=or4c8cj6&raw=1
+
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU0OTI2OWItZmVkZi00YWYyLTllMTctZTQzODZmMmY4YTgzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg" group-title="INDO DRAMA", Hamka & Siti Raham Vol. 2 (2023)
 https://www.dropbox.com/scl/fi/518vrg4q9uv0ji7x3vx3q/Hamka.-.Siti.Raham.Vol.2.2023.mp4?rlkey=dxs4sn27hvk9rqudgnp5rp3gw&st=o7t9ff9j&raw=1
 
