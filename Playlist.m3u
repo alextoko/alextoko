@@ -199,14 +199,17 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 ######################################################################################## INDO DRAMA ##############################################################################
 
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU0OTI2OWItZmVkZi00YWYyLTllMTctZTQzODZmMmY4YTgzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg" group-title="INDO DRAMA", Hamka & Siti Raham Vol. 2 (2023)
+https://www.dropbox.com/scl/fi/518vrg4q9uv0ji7x3vx3q/Hamka.-.Siti.Raham.Vol.2.2023.mp4?rlkey=dxs4sn27hvk9rqudgnp5rp3gw&st=o7t9ff9j&raw=1
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Poster_Check_Out_Sekarang%2C_Pay_Later_%282026%29.jpg" group-title="INDO DRAMA", Check Out Sekarang, Pay Later (2026)
 https://www.googleapis.com/drive/v3/files/1y6waLoXcgzliVrI0Ptwq3JB0kMZurlkg?alt=media&key=AIzaSyDgt2ZX8f5ZuTFzcz778AoICG8l38Qf0Pc
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/Poster_film_Teka_Teki_Tika.jpg" group-title="INDO DRAMA", Teka-teki Tika (2021)
-https://www.googleapis.com/drive/v3/files/19z2Ywv7JePy7B0oXKe_E359qVSZp22k5?alt=media&key=AIzaSyDgt2ZX8f5ZuTFzcz778AoICG8l38Qf0Pc
+https://www.dropbox.com/scl/fi/tmy3u5ud2fc7w7acd7tm1/NGEFILM.STORE.Teka.Teki.Tika.2021.WEB-DL.1080p.mp4?rlkey=r3cmahn80qx0vob6llkqmte9a&st=dvhm2ihi&raw=1
 
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFmODEyOTktODg0Ni00M2UzLWFiMTQtZmEwMzBiMDllYmJhXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg" group-title="INDO DRAMA", Warkop DKI: ViRaLiN dOoOoNg..!! (2026)
-https://www.googleapis.com/drive/v3/files/1k7QhfEf7Mj0xNntn6sRrEHd_VyBqrEm9?alt=media&key=AIzaSyDgt2ZX8f5ZuTFzcz778AoICG8l38Qf0Pc
+https://www.dropbox.com/scl/fi/nygn9qzhea7fn3khi6ko1/NGEFILM.STORE.Warkop.DKI.Viralin.Doooong.2025.WEB-DL.1080p.mp4?rlkey=k7jlhy36sq5z21os251lo6nxa&st=9d0xjw49&raw=1
 
 #EXTINF: -1 tvg-logo="https://www.nicepng.com/png/detail/525-5255833_logo-film-production-png.png" group-title="INDO DRAMA", Comic 8
 https://www.googleapis.com/drive/v3/files/1mrLfXS1PLLRPIWh3BMCn6aaDQJnMa3Nb?alt=media&key=AIzaSyDgt2ZX8f5ZuTFzcz778AoICG8l38Qf0Pc
@@ -391,6 +394,9 @@ https://www.dropbox.com/scl/fi/y3gsnyp96qifj74i0mcn9/D21.FUN-Lift-2024-1080p.mp4
 https://www.dropbox.com/scl/fi/2jecdwc9nrgnetpvq1j1h/D21.FUN-Society-of-the-Snow-2023-1080p.mp4?rlkey=gph3i8obwu2o9sopfwcsvhjli&raw=1
 
 ######################################################################################## MOVIE BARAT ##############################################################################
+
+#EXTINF: -1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Resident_Evil_2026_Poster_Film.webp/500px-Resident_Evil_2026_Poster_Film.webp" group-title="MOVIE BARAT", Resident Evil (2026)
+https://www.dropbox.com/scl/fi/k935k0skjs05832vqdzzy/Lk21.De-Resident-Evil-2026-1080p.mp4?rlkey=c47z9ao83t34lts78ujj95z55&st=ptux8wye&raw=1
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBHqEZ-RgpXIbY8alkL2LyCCQovxVR010f6jp1rsfaf4j5QqqC" group-title="MOVIE BARAT", The End of Oak Street (2026)
 https://www.googleapis.com/drive/v3/files/1t4FQRkJ5oAD7zbrJQaE8E4QATXERLHI0?alt=media&key=AIzaSyCFUpCvQf77D0vwbKSN8UkoPNvUXilmtfU
