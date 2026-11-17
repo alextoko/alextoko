@@ -147,6 +147,9 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="INDONESIA", Magna HD
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
+#EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="INDONESIA", Magna HD
+https://stream.playcdn.de/playlist/5dceebe09914a7f02756522d32dde8c3/1/0.m3u8?x=1
+
 ########################################################################### SPORTS #########################################################################
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
