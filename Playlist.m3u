@@ -147,9 +147,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="INDONESIA", Magna HD
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="INDONESIA", Magna HD
-https://stream.playcdn.de/playlist/5dceebe09914a7f02756522d32dde8c3/1/0.m3u8?x=1
-
 ########################################################################### SPORTS #########################################################################
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -608,80 +605,106 @@ https://www.googleapis.com/drive/v3/files/1Jf6b6vNcSQMs3ZjoJeNCTBh03tY2mAV3?alt=
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/GENFt-G23fEQYGlsyq3k34GlYOEU3-KEgUWCFR1AA6DDSXp1DxYHli16RodaYHGPU36C" group-title="=== SERIES KOREA ===", SERIES KOREA
 https://www.dropbox.com/scl/fi/obah9ysk9dx2058lrz055/D21.FUN-Orion-and-the-Dark-2024-1080p.mp4?rlkey=tvb97jq04tqkocn9yz09e097p&raw=1
 
+############################################################################################ The Blue Road ############################################################################################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E1 (2026)
+https://www.googleapis.com/drive/v3/files/1xYDbYnJ_yhAdULdhlKRzJRG_O6Yz39_X?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E2 (2026)
+https://www.googleapis.com/drive/v3/files/1lvoA4YLl3sFYSP0KmkIy1CGlFwuDC79c?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E3 (2026)
+https://www.googleapis.com/drive/v3/files/1Nd4Oeo-eo8tjdzlzy6Sukw3IT8e1Tjy2?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E4 (2026)
+https://www.googleapis.com/drive/v3/files/1XJddsXIgFfizBm_0sOWmBhC4O52GFGpU?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E5 (2026)
+https://www.googleapis.com/drive/v3/files/1RvIYKBU6DGwrCWkj36M2VwicHRaRK8xw?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E6 (2026)
+https://www.googleapis.com/drive/v3/files/1sQu9TLkLSYCUdhnE1vCSWDLM4llP5_B3?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E7 (2026)
+https://www.googleapis.com/drive/v3/files/1bQNGLGcCW1IjXOBuR_sPskLsuggyBIRq?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/The_Blue_Road_%28TV_series%29_poster.png" group-title="The Blue Road", TBR S1 E8 (2026)
+https://www.googleapis.com/drive/v3/files/1ztuHOpSuzVDGwWEoCbyiShJD2OlOymZw?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
+
 ############################################################################################ Dark Hole ############################################################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E1 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E1 (2021)
 https://www.googleapis.com/drive/v3/files/1HJVHRP_AeDJZgETMvKgHSaMQJJYUPKHB?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E2 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E2 (2021)
 https://www.googleapis.com/drive/v3/files/1gwz6xrRSSokpJXWZBvjDWK47KCnfa3YE?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E3 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E3 (2021)
 https://www.googleapis.com/drive/v3/files/1I36nI-b2JQ5zR5YLSCRiKGcCxGZJpqG8?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E4 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E4 (2021)
 https://www.googleapis.com/drive/v3/files/1b895GniDXZrt8XgxEIcxZif0tiLqmP8E?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E5 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E5 (2021)
 https://www.googleapis.com/drive/v3/files/1nfGX1PNrTBRGnUmTwTB9fJNlxryuPjly?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E6 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E6 (2021)
 https://www.googleapis.com/drive/v3/files/1VgXxGAeXCAnrCFbWtvtyEt0fQxbiJhog?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E7 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E7 (2021)
 https://www.googleapis.com/drive/v3/files/1FfG1dGgDsNvH4jYhsrtsUSxo6Yzhxi9i?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E8 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E8 (2021)
 https://www.googleapis.com/drive/v3/files/1G9WrOJu8i49VMPIPixo3YanbOdx8vBMs?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E9 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E9 (2021)
 https://www.googleapis.com/drive/v3/files/1yEN848t_EgAsijzVryQTTAuORgqeKY1o?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E10 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E10 (2021)
 https://www.googleapis.com/drive/v3/files/148Xo5q7VmDaD5bNAf-va6IH75HRk8mr_?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E11 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E11 (2021)
 https://www.googleapis.com/drive/v3/files/1mDhB8aRRYBR7F03mtKga9TyriEUyKWmJ?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Dark Hole", DH S1 E12 (2021)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/Dark_Hole_%28TV_series%29.jpg" group-title="Dark Hole", DH S1 E12 (2021)
 https://www.googleapis.com/drive/v3/files/18msMHZr0cGuOxK52PMzk8zAA8xTdrHyY?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
 ############################################################################################ Zombie Detective ############################################################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E1 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E1 (2020)
 https://www.googleapis.com/drive/v3/files/1w0aga0u7mf78sgAadPFUEV6rvo_z_TpD?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E2 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E2 (2020)
 https://www.googleapis.com/drive/v3/files/1ohwKGmxxZYg2_zLhUgo997pjD3uXikZV?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E3 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E3 (2020)
 https://www.googleapis.com/drive/v3/files/17TbnvW-OY4BzrXlhjxAEqymRArdx6zvM?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E4 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E4 (2020)
 https://www.googleapis.com/drive/v3/files/10efeyRnOZ_lNoW28EXSRTe-b70QAyCJB?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E5 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E5 (2020)
 https://www.googleapis.com/drive/v3/files/1RmdxbWl4aK5ds_OLRpe7P22FGUQD_RQS?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E6 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E6 (2020)
 https://www.googleapis.com/drive/v3/files/11JZVkqdvMB56huR8ctWdXw6gEPWI8ZS7?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E7 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E7 (2020)
 https://www.googleapis.com/drive/v3/files/1J8cTQ2E4jAeRGWecMWaCSbCuEfYc5uKc?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E8 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E8 (2020)
 https://www.googleapis.com/drive/v3/files/1hnE3w37SS4E4TBjd37XZS_9iJfac9c5V?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E9 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E9 (2020)
 https://www.googleapis.com/drive/v3/files/1vgXxlSl5-qeu9pviHl2qdceoYMe8ystE?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E10 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E10 (2020)
 https://www.googleapis.com/drive/v3/files/18BUizIQ2p20uk3n3zDmJZzj4bKe5R_NM?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E11 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E11 (2020)
 https://www.googleapis.com/drive/v3/files/1-fN37Mb0eG8IWBAiRrjfssqKtPcaoneN?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg?utm_source=id.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled" group-title="Zombie Detective", ZD S1 E12 (2020)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Zombie_Detective_poster.jpg " group-title="Zombie Detective", ZD S1 E12 (2020)
 https://www.googleapis.com/drive/v3/files/14S2btRbT5XzAaGo_3YguItZzaQM5xUqG?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
 ############################################################################################ HAPPINESS ############################################################################################
@@ -791,78 +814,78 @@ https://www.googleapis.com/drive/v3/files/1_aWnmUW4IWlHJxM3VpKHW20_t-qpl4xZ?alt=
 
 ############################################################################## The Worst of Evil  ###########################################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E1 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E1 (2023)
 https://www.googleapis.com/drive/v3/files/19dWXDs2Y8_HP_Fby-eH4oDRA3tHZe5CR?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E2 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E2 (2023)
 https://www.googleapis.com/drive/v3/files/1LY8QbgYWBCQo3QE4kZ4xf7Axg4wCLefQ?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E3 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E3 (2023)
 https://www.googleapis.com/drive/v3/files/1qevpLT4coSlzZ3jy5XdUcPk88FIoA6i0?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E4 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E4 (2023)
 https://www.googleapis.com/drive/v3/files/14nwq7b-ScEEYyqRvGCyXpYaEY3DynXan?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E5 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E5 (2023)
 https://www.googleapis.com/drive/v3/files/1meKIezHTlMPHvwE4xQ5B4z9SFfQfSC3n?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E6 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E6 (2023)
 https://www.googleapis.com/drive/v3/files/1XPAxHeoVbCfIP38Bo9cOxZta1ss2oGbU?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E7 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E7 (2023)
 https://www.googleapis.com/drive/v3/files/1K0xud49_Vb_LyIMGftyhCoD94yK188P4?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E8 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E8 (2023)
 https://www.googleapis.com/drive/v3/files/1bnyvo81LGA_08VdFYFToNfn7-Ot_4rsf?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E9 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E9 (2023)
 https://www.googleapis.com/drive/v3/files/1XTnhbrcnez-e_vacTsiRxN0iYX-6YfV6?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E10 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E10 (2023)
 https://www.googleapis.com/drive/v3/files/1ELkeAuYTwajkJuHrlu0ZBSzUAuIyi3pD?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E11 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E11 (2023)
 https://www.googleapis.com/drive/v3/files/160aA_VY1Ha9JUnJFyKOzrQgu2HE5lRS-?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Worst of Evil", TWoE S1 E12 (2023)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/The_Worst_of_Evil.jpg" group-title="The Worst of Evil", TWoE S1 E12 (2023)
 https://www.googleapis.com/drive/v3/files/1bLlu2fHkd0Nx2S8SQPit0ZlJDAz8h0Pq?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
 ############################################################################## The Scarecrow  ###########################################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E1 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E1 (2026)
 https://www.googleapis.com/drive/v3/files/1wDuNyVjOQGp_P1R0iyXgZGoKhwBA5_Wa?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E2 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E2 (2026)
 https://www.googleapis.com/drive/v3/files/1-wsAwkJP8QIHgLXeyFeAiupIEfcPOVYA?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E3 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E3 (2026)
 https://www.googleapis.com/drive/v3/files/1-pwnccXyTf6v7uRj0P4b_xv81pOU9y5b?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E4 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E4 (2026)
 https://www.googleapis.com/drive/v3/files/1EmOC0d2SOeZqVZVQPurPpX8_N5MCLmgt?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E5 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E5 (2026)
 https://www.googleapis.com/drive/v3/files/185OqmCyr7pGhT210mpFipOw-dXs3V9Ig?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E6 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E6 (2026)
 https://www.googleapis.com/drive/v3/files/1jZFi2EFQdvb8EynjCtw_Zscy1hQXuZqy?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E7 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E7 (2026)
 https://www.googleapis.com/drive/v3/files/1PvMvyg5-Nrfx27CUi-wQ8yWAQnccCmEI?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E8 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E8 (2026)
 https://www.googleapis.com/drive/v3/files/1SCazsKpAhjdPOudXVPZYhD2Lp-5INEIx?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E9 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E9 (2026)
 https://www.googleapis.com/drive/v3/files/1TK4k1BAlNqkdLULMf4ZmD9coQEWArZBI?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E10 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E10 (2026)
 https://www.googleapis.com/drive/v3/files/15JHvO1fX87bSF2K5XSz3R7k1_vMcxV_W?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E11 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E11 (2026)
 https://www.googleapis.com/drive/v3/files/17c3CeXVjTig3igTZuz_STyC67yHFSrcI?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="The Scarecrow", The Scarecrow S1 E12 (2026)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/The_Scarecrow_%28TV_series%29_poster.png" group-title="The Scarecrow", The Scarecrow S1 E12 (2026)
 https://www.googleapis.com/drive/v3/files/18X3EZvR-uy0rnTSrYZSCQQSdtEK7X0fG?alt=media&key=AIzaSyBT8b7EQcZ1Ck41Nn1caie50a5l6cKj9nY
 
 ############################################################################## Made in Korea ###########################################################################
